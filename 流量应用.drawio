@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T14:56:51.202Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="oP-9bFCOiX70xJZZ8n4y" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T14:57:27.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yzUVx4RGgeatyKF6ftT3" version="15.8.2" type="github">
   <diagram id="DVm1cHAixFEP3yzzqtct" name="第 1 页">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry x="70" y="110" width="130" height="300" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-4" value="导购归因" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-5" value="&lt;b&gt;CTR&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="190" width="50" height="40" as="geometry" />
+          <mxGeometry x="450" y="170" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-6" value="CVR" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="389" y="280" width="50" height="40" as="geometry" />
+          <mxGeometry x="450" y="270" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-7" value="人" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="150" width="50" height="50" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="110" y="320" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-10" value="用户行为" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
