@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T15:23:03.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="yRRPcD1C9MfGB0jN2me5" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-09T15:27:44.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="EkHjtSzykfBv6D2GdA6f" version="15.8.2" type="github">
   <diagram id="DVm1cHAixFEP3yzzqtct" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,19 +43,19 @@
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-30" value="新老访、超会、年新老客" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="110" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-lsGg8hNjmcbaT2HnY6-31" value="商品、物理类目、BU、GROPU、新老品、价格带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v-lsGg8hNjmcbaT2HnY6-31" value="商品、类目、BU、GROPU、新老品、价格带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="230" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-32" value="&lt;b&gt;毛利率&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="122.5" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-33" value="&lt;b&gt;定金购预付&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="80" height="80" as="geometry" />
+          <mxGeometry x="600" y="180" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-35" value="&lt;b&gt;定金购尾款&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="620" y="260" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v-lsGg8hNjmcbaT2HnY6-36" value="商品、物理类目、BU、GROPU、新老品、价格带" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="v-lsGg8hNjmcbaT2HnY6-36" value="页面、模块、坑位、素材（图片&amp;amp;视频）、活动、榜单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="350" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-37" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=61;endSize=9.22;" edge="1" parent="1">
@@ -66,9 +66,15 @@
         </mxCell>
         <mxCell id="v-lsGg8hNjmcbaT2HnY6-47" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=61;endSize=9.22;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="229" as="sourcePoint" />
-            <mxPoint x="520" y="229" as="targetPoint" />
+            <mxPoint x="460" y="229" as="sourcePoint" />
+            <mxPoint x="510" y="229" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v-lsGg8hNjmcbaT2HnY6-48" value="1uv价值" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="550" y="230" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="v-lsGg8hNjmcbaT2HnY6-49" value="&lt;b&gt;折价率&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="200" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
