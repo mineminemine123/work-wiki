@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-24T13:57:35.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="5XtyEglozBdvk6plVJ77" version="16.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-24T13:59:30.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="PObu8MRdEeP3K6ZwPznL" version="16.6.2" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="1422" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,8 +99,8 @@
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-76" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fillColor=#dae8fc;width=16;endSize=7.67;strokeColor=none;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="414.5" y="730" as="sourcePoint" />
-            <mxPoint x="414.99" y="680" as="targetPoint" />
+            <mxPoint x="414.5" y="725" as="sourcePoint" />
+            <mxPoint x="414.99" y="675" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fillColor=none;strokeColor=#FF3333;strokeWidth=2;" vertex="1" parent="1">
@@ -136,8 +136,11 @@
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-107" value="有数报表" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="210" y="60" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9aOVJZBJ18JT7NjNBlV-108" value="Label" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" vertex="1" parent="1">
+        <mxCell id="X9aOVJZBJ18JT7NjNBlV-108" value="业务系统" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="370" y="60" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="X9aOVJZBJ18JT7NjNBlV-109" value="业务平台系统" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="530" y="60" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
