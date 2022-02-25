@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T09:06:56.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="1JW9BUYJu5rKHjQGf3De" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T09:09:19.624Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="uUn7W2lvUCxVaAnLq9lL" version="16.6.4" type="github">
   <diagram id="R-ugYYLntL-yWxEJQGBO" name="第 1 页">
     <mxGraphModel dx="1110" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,13 +43,16 @@
         <mxCell id="RwoeQ9pEv86tN0X3BAsC-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="RwoeQ9pEv86tN0X3BAsC-24" target="RwoeQ9pEv86tN0X3BAsC-27">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RwoeQ9pEv86tN0X3BAsC-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#000000;" edge="1" parent="1" source="RwoeQ9pEv86tN0X3BAsC-24" target="RwoeQ9pEv86tN0X3BAsC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="RwoeQ9pEv86tN0X3BAsC-24" value="配置数据" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="530" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="530" y="105" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RwoeQ9pEv86tN0X3BAsC-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;" edge="1" parent="1" source="RwoeQ9pEv86tN0X3BAsC-27" target="RwoeQ9pEv86tN0X3BAsC-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="RwoeQ9pEv86tN0X3BAsC-27" value="初始化缓存" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="RwoeQ9pEv86tN0X3BAsC-27" value="缓存" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="530" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="RwoeQ9pEv86tN0X3BAsC-32" value="任务读取" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffffc0;strokeColor=#000000;" vertex="1" parent="1">
@@ -76,6 +79,12 @@
         </mxCell>
         <mxCell id="RwoeQ9pEv86tN0X3BAsC-39" value="&lt;h3&gt;开发udf&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="414" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoeQ9pEv86tN0X3BAsC-43" value="配置更新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="145" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RwoeQ9pEv86tN0X3BAsC-44" value="初始化" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="580" y="145" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
