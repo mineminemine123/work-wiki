@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T08:38:11.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WiLSx6nWZffKy-cvGBtE" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T08:39:56.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ya6_3bxxXjMeHupeBFeW" version="16.6.4" type="github">
   <diagram id="ZLGJGffp-yph2zPGGAwK" name="第 1 页">
     <mxGraphModel dx="1110" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
             <mxPoint x="384.5" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7lG7UyvzU5045cMSKAaZ-21" value="&lt;h3&gt;可配置表&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-21" value="&lt;h3&gt;配置表(hive表)&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="270" height="40" as="geometry" />
         </mxCell>
         <mxCell id="7lG7UyvzU5045cMSKAaZ-23" value="&lt;h3&gt;业务新增页面id&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;" vertex="1" parent="1">
