@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T08:39:56.807Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="Ya6_3bxxXjMeHupeBFeW" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T08:40:28.081Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="VrKuXPM8SSDFqq7rWqas" version="16.6.4" type="github">
   <diagram id="ZLGJGffp-yph2zPGGAwK" name="第 1 页">
     <mxGraphModel dx="1110" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,8 +107,8 @@
         <mxCell id="7lG7UyvzU5045cMSKAaZ-44" value="实时计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=none;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="753.5" y="500" width="73" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7lG7UyvzU5045cMSKAaZ-46" value="周期性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="763" y="380" width="60" height="30" as="geometry" />
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-46" value="周期性刷新" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="763" y="380" width="67" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
