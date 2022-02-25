@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T14:57:31.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="JqKufpy0RbARSxeRkRGg" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T15:12:18.628Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="IfCSQzUEmFgs8mPYfjHN" version="16.6.4" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -139,7 +139,7 @@
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-108" value="&lt;h2&gt;业务系统&lt;/h2&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="410" y="60" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="X9aOVJZBJ18JT7NjNBlV-109" value="&lt;h2&gt;搜广推&lt;/h2&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" parent="1" vertex="1">
+        <mxCell id="X9aOVJZBJ18JT7NjNBlV-109" value="&lt;h2&gt;业务平台&lt;/h2&gt;" style="label;whiteSpace=wrap;html=1;image=img/clipart/Gear_128x128.png;dashed=1;labelBackgroundColor=#E6E6E6;fontFamily=Times New Roman;fontColor=#000000;strokeColor=#DAE8FC;strokeWidth=2;fillColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="590" y="60" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-113" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=#E1D5E7;fontFamily=Times New Roman;strokeColor=none;strokeWidth=2;fillColor=#fff2cc;" parent="1" vertex="1">
