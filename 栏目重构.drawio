@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T08:09:15.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q5kZ5JqEC_IZPveyaofZ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T08:14:04.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="75Krn52xpQenWNyWWd5F" version="16.6.4" type="github">
   <diagram id="ZLGJGffp-yph2zPGGAwK" name="第 1 页">
     <mxGraphModel dx="1110" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7lG7UyvzU5045cMSKAaZ-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;fillColor=none;dashed=1;strokeColor=#CC0000;" vertex="1" parent="1">
-          <mxGeometry x="120" y="200" width="921" height="110" as="geometry" />
-        </mxCell>
         <mxCell id="7lG7UyvzU5045cMSKAaZ-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontColor=none;fillColor=#D4E1F5;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="420" width="540" height="130" as="geometry" />
         </mxCell>
@@ -22,7 +19,7 @@
         <mxCell id="T-cb4IlArOU8WCy4CD7B-8" value="&lt;div class=&quot;okr-block-clipboard&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;榜单页&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontStyle=1;fontFamily=Times New Roman;fontSize=14;strokeColor=none;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="450" y="110" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7lG7UyvzU5045cMSKAaZ-1" value="&lt;div class=&quot;okr-block-clipboard&quot; style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;其他&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontStyle=1;fontFamily=Times New Roman;fontSize=14;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-1" value="&lt;div class=&quot;okr-block-clipboard&quot; style=&quot;font-size: 14px&quot;&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px&quot;&gt;其他&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontStyle=1;fontFamily=Times New Roman;fontSize=14;strokeColor=none;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="550" y="110" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7lG7UyvzU5045cMSKAaZ-2" value="&lt;h3&gt;规则统一抽取&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
@@ -63,6 +60,22 @@
         </mxCell>
         <mxCell id="7lG7UyvzU5045cMSKAaZ-21" value="&lt;h3&gt;可配置表&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#99CCFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="270" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-23" value="&lt;h3&gt;业务新增页面id&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF2CC;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="90" width="130" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-26" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=none;fillColor=#999999;entryX=1;entryY=0.5;entryDx=0;entryDy=0;width=12;endSize=5.33;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7lG7UyvzU5045cMSKAaZ-23" target="7lG7UyvzU5045cMSKAaZ-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="745" y="230" as="sourcePoint" />
+            <mxPoint x="744.5" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="745" y="260" />
+              <mxPoint x="700" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-27" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontColor=none;strokeColor=#CC0000;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="120" y="215" width="800" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
