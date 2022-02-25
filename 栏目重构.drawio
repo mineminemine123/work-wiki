@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T08:35:27.672Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="ICBjwbb3p4jix_TR--D2" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T08:38:11.291Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WiLSx6nWZffKy-cvGBtE" version="16.6.4" type="github">
   <diagram id="ZLGJGffp-yph2zPGGAwK" name="第 1 页">
     <mxGraphModel dx="1110" dy="413" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -92,8 +92,23 @@
             <mxPoint x="790" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7lG7UyvzU5045cMSKAaZ-40" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=none;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="720" y="430" width="73" height="40" as="geometry" />
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=none;fillColor=#999999;" edge="1" parent="1" source="7lG7UyvzU5045cMSKAaZ-40" target="7lG7UyvzU5045cMSKAaZ-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-40" value="缓存" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="837" y="390" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontColor=none;fillColor=#999999;" edge="1" parent="1" source="7lG7UyvzU5045cMSKAaZ-41" target="7lG7UyvzU5045cMSKAaZ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-41" value="hive表" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-44" value="实时计算" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontColor=none;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="753.5" y="500" width="73" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7lG7UyvzU5045cMSKAaZ-46" value="周期性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="763" y="380" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
