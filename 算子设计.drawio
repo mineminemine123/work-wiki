@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T02:36:42.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fPJOaXC30WfjHUdBU4Qi" version="16.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T02:42:52.426Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="kfK8rzJyuecYJEoioUlq" version="16.6.3" type="github">
   <diagram id="nQHFIvQ6dZqCZj452bg0" name="第 1 页">
     <mxGraphModel dx="1267" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZaKkyevfAZTXTg-qhni0-72" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="270" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="ZaKkyevfAZTXTg-qhni0-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="ZaKkyevfAZTXTg-qhni0-7" target="ZaKkyevfAZTXTg-qhni0-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -31,16 +34,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZaKkyevfAZTXTg-qhni0-36" value="&lt;h2&gt;Flink任务&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="190" y="120" width="90" height="30" as="geometry" />
+          <mxGeometry x="210" y="110" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaKkyevfAZTXTg-qhni0-37" value="&lt;h2&gt;Spark任务&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;fontFamily=Times New Roman;" vertex="1" parent="1">
           <mxGeometry x="450" y="120" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZaKkyevfAZTXTg-qhni0-38" value="&lt;h3&gt;算子&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="70" height="70" as="geometry" />
+          <mxGeometry x="180" y="290" width="70" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="ZaKkyevfAZTXTg-qhni0-46" value="&lt;h3&gt;&lt;span&gt;实时表&lt;/span&gt;&lt;/h3&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="90" height="50" as="geometry" />
+        <mxCell id="ZaKkyevfAZTXTg-qhni0-46" value="&lt;h3&gt;&lt;span&gt;实时表（kafka/pulsar）&lt;/span&gt;&lt;/h3&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="340" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZaKkyevfAZTXTg-qhni0-48" value="&lt;h3&gt;T+1离线表&lt;/h3&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="600" y="162.5" width="100" height="50" as="geometry" />
@@ -48,8 +51,20 @@
         <mxCell id="ZaKkyevfAZTXTg-qhni0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Times New Roman;fontSize=12;strokeWidth=2;" edge="1" parent="1" source="ZaKkyevfAZTXTg-qhni0-54" target="ZaKkyevfAZTXTg-qhni0-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZaKkyevfAZTXTg-qhni0-54" value="&lt;h3&gt;&lt;span&gt;准实时表&lt;/span&gt;&lt;/h3&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="310" y="270" width="90" height="50" as="geometry" />
+        <mxCell id="ZaKkyevfAZTXTg-qhni0-54" value="&lt;h3&gt;&lt;span&gt;准实时表(iceberg)&lt;/span&gt;&lt;/h3&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;sketch=0;fontFamily=Times New Roman;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZaKkyevfAZTXTg-qhni0-59" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Times New Roman;fontSize=12;strokeWidth=2;exitX=1.043;exitY=0.3;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZaKkyevfAZTXTg-qhni0-38" target="ZaKkyevfAZTXTg-qhni0-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="330" as="sourcePoint" />
+            <mxPoint x="290" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZaKkyevfAZTXTg-qhni0-61" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Times New Roman;fontSize=12;strokeWidth=2;exitX=1;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="ZaKkyevfAZTXTg-qhni0-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="350" as="sourcePoint" />
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
