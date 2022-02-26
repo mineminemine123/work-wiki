@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T05:07:43.774Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_W6TeI_tmE9gPX05jwEc" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T05:08:40.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q8QP1BjAyeRDpsC_s1T-" version="16.6.4" type="github">
   <diagram id="YuwCHeqFbcpFo9LPY-PJ" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,11 +57,11 @@
         <mxCell id="3_1g0eFo5Rt5CnOM_eIa-72" value="&lt;h3&gt;界面化配置&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;fontSize=11;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="30" y="629.5" width="145" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="MJIsDtoSRGlPTnnlGnTL-3" value="&lt;h4&gt;结构&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=11;fontColor=none;" vertex="1" parent="1">
+        <mxCell id="MJIsDtoSRGlPTnnlGnTL-3" value="&lt;h4&gt;结构&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=11;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="580" y="555" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MJIsDtoSRGlPTnnlGnTL-4" value="&lt;h4&gt;输入输出&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=11;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry x="590" y="580" width="60" height="30" as="geometry" />
+        <mxCell id="MJIsDtoSRGlPTnnlGnTL-4" value="&lt;h4&gt;结果&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBorderColor=none;fontFamily=Times New Roman;fontSize=11;fontColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="580" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
