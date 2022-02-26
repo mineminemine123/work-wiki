@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-26T02:42:10.840Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7BMLtACccUVFsXx4C5eE" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-26T03:12:08.027Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QpR0BJ5kGWyUsX9T4Jbw" version="16.6.4" type="github">
   <diagram id="YuwCHeqFbcpFo9LPY-PJ" name="第 1 页">
     <mxGraphModel dx="782" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,24 @@
         <mxCell id="1" parent="0" />
         <mxCell id="3_1g0eFo5Rt5CnOM_eIa-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-5" value="配置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-6" value="SQL构建" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="510" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-8" value="JAVA反射构建" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="510" y="614.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-10" value="规则校验" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="210" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-13" value="算子计算" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="350" y="554.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3_1g0eFo5Rt5CnOM_eIa-14" value="配置" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF4C3;" vertex="1" parent="1">
+          <mxGeometry x="60" y="555" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
