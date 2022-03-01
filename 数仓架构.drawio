@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-01T14:54:42.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="4ArZnN5LeGCqwhB1vHUi" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T14:54:55.771Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="UNPEdejIiLOBLXElmGny" version="16.6.4" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="782" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -226,7 +226,7 @@
         <mxCell id="1MsRyuQZ5NE7aAgOm8JP-3" value="&lt;h3&gt;埋点管理平台&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="844.5" y="697" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="1MsRyuQZ5NE7aAgOm8JP-4" value="&lt;h3&gt;日志平台&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66B2FF;" vertex="1" parent="1">
+        <mxCell id="1MsRyuQZ5NE7aAgOm8JP-4" value="&lt;h3&gt;日志采集平台&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66B2FF;" vertex="1" parent="1">
           <mxGeometry x="844.5" y="640" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="1MsRyuQZ5NE7aAgOm8JP-5" value="&lt;h3&gt;数据开发平台&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#66B2FF;" vertex="1" parent="1">
