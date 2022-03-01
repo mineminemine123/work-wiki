@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-28T18:30:39.491Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="XeUHTQJHBPbV5_lZYf__" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-01T13:49:50.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="APqK26w3kgDlnOts4o8h" version="16.6.4" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,11 +25,11 @@
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-20" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;source(贴源层）&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="580" width="320" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="X9aOVJZBJ18JT7NjNBlV-26" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;埋点日志&amp;nbsp; 数据库&amp;nbsp; 后端日志&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="X9aOVJZBJ18JT7NjNBlV-26" value="&lt;h2&gt;&lt;br&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry y="700" width="820" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-38" value="&lt;h2&gt;&lt;b&gt;CDC（采集）&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="440" y="670" width="120" height="20" as="geometry" />
+          <mxGeometry x="440" y="680" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fillColor=#97D077;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -177,6 +177,9 @@
         </mxCell>
         <mxCell id="ZXhH_j-BdktM3KkEGJS_-4" value="&lt;h2&gt;数据质量治理&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;labelBackgroundColor=#E1D5E7;fontFamily=Times New Roman;fontSize=12;fontColor=#000000;" parent="ZXhH_j-BdktM3KkEGJS_-6" vertex="1">
           <mxGeometry x="8" width="24" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="0jsYW7mjkBVJK00ZDQxi-1" value="&lt;h2&gt;数据库&lt;/h2&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="380" y="710" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
