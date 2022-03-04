@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T11:09:43.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="WGWJdHuROejJ5Zh9GUG0" version="16.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-04T11:10:06.953Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="QRDTOIkBQDmKZzrnfprC" version="16.6.5" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1937" dy="455" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,13 +32,13 @@
           <mxGeometry x="400" y="310" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-13" value="埋点建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="-65" y="610" width="140" height="30" as="geometry" />
+          <mxGeometry x="-65" y="700" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-14" value="数仓建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="670" width="140" height="30" as="geometry" />
+          <mxGeometry x="265" y="710" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-15" value="数据应用" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="600" width="140" height="30" as="geometry" />
+          <mxGeometry x="560" y="710" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iL24kiF9AvWuWapnE7Iy-17" target="iL24kiF9AvWuWapnE7Iy-18">
           <mxGeometry relative="1" as="geometry" />
@@ -56,13 +56,16 @@
           <mxGeometry x="120" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-23" value="&lt;div&gt;开发&lt;/div&gt;&lt;div&gt;数据形态探查&lt;/div&gt;&lt;div&gt;业务数据一致性比对&lt;/div&gt;&lt;div&gt;测试&lt;/div&gt;&lt;div&gt;异构数据比对&lt;/div&gt;&lt;div&gt;上线&lt;/div&gt;&lt;div&gt;卡点发布&lt;/div&gt;&lt;div&gt;链路感知&lt;/div&gt;&lt;div&gt;稽核规则配置&lt;/div&gt;&lt;div&gt;表全生命周期管理&lt;/div&gt;&lt;div&gt;任务分级&amp;amp;基线运维&lt;/div&gt;&lt;div&gt;周期性数据质量问题复盘&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="530" width="210" height="20" as="geometry" />
+          <mxGeometry x="230" y="540" width="210" height="20" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-25" value="&lt;div&gt;埋点定义标准化、开发流程化&lt;/div&gt;&lt;div&gt;手动/自动/UI测试覆盖全&lt;/div&gt;&lt;div&gt;埋点异动监控、规则监控&lt;/div&gt;&lt;div&gt;埋点全生命管理&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="-50" y="380" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-26" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iL24kiF9AvWuWapnE7Iy-27" value="&lt;div&gt;核心数据业务兜底&lt;/div&gt;&lt;div&gt;服务等级&lt;/div&gt;&lt;div&gt;监控大盘&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="490" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
