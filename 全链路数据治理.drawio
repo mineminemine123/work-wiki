@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T04:27:31.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="rAKC6pKjB1yEvtz3EKgQ" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T04:28:20.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6a6QrVX4yF7o77K6vRaf" version="16.6.4" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1367" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           <mxGeometry x="405" y="270" width="50" height="25" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-13" value="埋点建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="460" width="140" height="30" as="geometry" />
+          <mxGeometry x="-120" y="510" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-14" value="数仓建设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="265" y="410" width="140" height="30" as="geometry" />
@@ -77,10 +77,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-7" value="&lt;b&gt;JIRA联动&amp;amp;邮件通知&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-190" y="330" width="140" height="40" as="geometry" />
+          <mxGeometry x="-190" y="320" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-8" value="&lt;b&gt;埋点管理平台&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="330" width="140" height="40" as="geometry" />
+          <mxGeometry x="-150" y="315" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-9" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;埋点异动监控、规则监控&lt;/div&gt;&lt;div&gt;埋点全生命管理&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="380" width="170" height="50" as="geometry" />
