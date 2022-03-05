@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T05:14:21.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="r08MA0SCFlNbou1_GeMr" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T05:15:24.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="sr8j3YFCA6CWDy5ip1eM" version="16.6.4" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1609" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="-60" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-23" value="&lt;div&gt;开发&lt;/div&gt;&lt;div&gt;数据形态探查&lt;/div&gt;&lt;div&gt;业务数据一致性比对&lt;/div&gt;&lt;div&gt;测试&lt;/div&gt;&lt;div&gt;异构数据比对&lt;/div&gt;&lt;div&gt;上线&lt;/div&gt;&lt;div&gt;卡点发布&lt;/div&gt;&lt;div&gt;链路感知&lt;/div&gt;&lt;div&gt;稽核规则配置&lt;/div&gt;&lt;div&gt;表全生命周期管理&lt;/div&gt;&lt;div&gt;任务分级&amp;amp;基线运维&lt;/div&gt;&lt;div&gt;周期性数据质量问题复盘&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="700" width="210" height="10" as="geometry" />
+          <mxGeometry x="590" y="750" width="210" height="10" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-25" value="&lt;h4&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;定义标准化&lt;br&gt;开发流程化&lt;br&gt;手动/自动/UI测试覆盖全&lt;/span&gt;&lt;/h4&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="20" y="270" width="150" height="70" as="geometry" />
