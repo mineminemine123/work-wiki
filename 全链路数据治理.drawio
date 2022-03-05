@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T13:41:30.656Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="fobzvUOmghw5i-g8xXOI" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T13:42:43.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q_61GeMzYFyk1qYMPJQx" version="16.6.4" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1747" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,10 +26,10 @@
           <mxGeometry x="456.5" y="480" width="155" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-13" value="&lt;h2&gt;&lt;b&gt;埋点建设&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="147" width="140" height="30" as="geometry" />
+          <mxGeometry x="-60" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iL24kiF9AvWuWapnE7Iy-14" value="&lt;h2&gt;数仓建设&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="456.5" y="147" width="140" height="30" as="geometry" />
+          <mxGeometry x="456.5" y="140" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iL24kiF9AvWuWapnE7Iy-17" target="iL24kiF9AvWuWapnE7Iy-30">
           <mxGeometry relative="1" as="geometry" />
@@ -183,6 +183,9 @@
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-210" value="风险&lt;font face=&quot;微软雅黑&quot;&gt;评估&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="210" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="TgXje85l5A2x8AtPbwSx-213" value="&lt;h2&gt;埋点管理平台&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="183" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
