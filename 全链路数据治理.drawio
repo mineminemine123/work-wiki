@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T12:53:23.083Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="q2sROzdoegVEUgCp9i5i" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T12:54:54.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="9ZrnXK6xWTyxMjuRdSTg" version="16.6.4" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1609" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,9 +118,6 @@
         <mxCell id="TgXje85l5A2x8AtPbwSx-98" value="数据发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="435" y="419.38" width="65" height="28.75" as="geometry" />
         </mxCell>
-        <mxCell id="TgXje85l5A2x8AtPbwSx-103" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;分级&lt;/div&gt;&lt;div&gt;限流&lt;/div&gt;&lt;div&gt;熔断&lt;/div&gt;&lt;div&gt;降级&lt;/div&gt;&lt;div&gt;业务兜底&lt;/div&gt;&lt;div&gt;监控大盘&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="930" y="225" width="110" height="100" as="geometry" />
-        </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-108" value="环境隔离&lt;br&gt;数据比对&lt;br&gt;&lt;div style=&quot;&quot;&gt;code review&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="524" y="308.75" width="80" height="50" as="geometry" />
         </mxCell>
@@ -130,8 +127,8 @@
         <mxCell id="TgXje85l5A2x8AtPbwSx-117" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;模型设计规范&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;模型评审&lt;/span&gt;&lt;/div&gt;数据形态探查&lt;br&gt;业务数据比对" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="524" y="233.75" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TgXje85l5A2x8AtPbwSx-118" value="任务分级&lt;br&gt;基线运维&lt;br&gt;快速恢复&lt;br&gt;&lt;span style=&quot;font-size: 12px ; text-align: center&quot;&gt;问题复盘&lt;/span&gt;&lt;br&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="711" y="283.75" width="140" height="110" as="geometry" />
+        <mxCell id="TgXje85l5A2x8AtPbwSx-118" value="分流、限流、熔断&lt;br&gt;分级&amp;amp;基线运维&lt;br&gt;快速恢复&lt;br&gt;兜底&lt;br&gt;监控大盘&lt;br&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="710.5" y="290" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#CC6600;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -156,6 +153,9 @@
             <mxPoint x="260" y="255" as="sourcePoint" />
             <mxPoint x="260" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TgXje85l5A2x8AtPbwSx-192" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=11;fontColor=#000000;fillColor=#FFE599;" edge="1" parent="1" source="TgXje85l5A2x8AtPbwSx-139" target="TgXje85l5A2x8AtPbwSx-191">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-139" value="保障策略" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#97D077;" vertex="1" parent="1">
           <mxGeometry x="640" y="302.5" width="60" height="25" as="geometry" />
@@ -195,6 +195,9 @@
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-189" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=11;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="424.5" y="408.75" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TgXje85l5A2x8AtPbwSx-191" value="复盘" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#97D077;" vertex="1" parent="1">
+          <mxGeometry x="640" y="392.5" width="60" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
