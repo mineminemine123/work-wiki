@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-05T12:25:38.493Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="nrArc4pQXd48HhB_b0iY" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-05T12:26:20.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="7MtGJGDKqdVfcYiVcvgb" version="16.6.4" type="github">
   <diagram id="VeE7li5wM5BbzBFu2hIH" name="第 1 页">
     <mxGraphModel dx="1609" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="TgXje85l5A2x8AtPbwSx-137" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="390" width="200" height="75" as="geometry" />
+        </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-53" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="385" width="210" height="80" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
         <mxCell id="TgXje85l5A2x8AtPbwSx-44" value="需求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="60" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="TgXje85l5A2x8AtPbwSx-55" value="&lt;font style=&quot;font-size: 11px&quot;&gt;链路风险巡检&amp;amp;治理&lt;br style=&quot;font-size: 11px&quot;&gt;资源分配&lt;br style=&quot;font-size: 11px&quot;&gt;稳定性保障&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
+        <mxCell id="TgXje85l5A2x8AtPbwSx-55" value="&lt;font style=&quot;font-size: 11px&quot;&gt;链路风险巡检&amp;amp;治理&lt;br style=&quot;font-size: 11px&quot;&gt;资源分配&lt;br style=&quot;font-size: 11px&quot;&gt;保障方式定义&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="400" width="230" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fillColor=#CC6600;" edge="1" parent="1" source="TgXje85l5A2x8AtPbwSx-89" target="TgXje85l5A2x8AtPbwSx-90">
@@ -173,9 +176,6 @@
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-134" value="需求" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="60" height="25" as="geometry" />
-        </mxCell>
-        <mxCell id="TgXje85l5A2x8AtPbwSx-137" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="390" width="200" height="75" as="geometry" />
         </mxCell>
         <mxCell id="TgXje85l5A2x8AtPbwSx-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=11;fillColor=#CC6600;" edge="1" parent="1" source="TgXje85l5A2x8AtPbwSx-138" target="TgXje85l5A2x8AtPbwSx-139">
           <mxGeometry relative="1" as="geometry" />
