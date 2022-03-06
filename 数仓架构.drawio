@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T08:58:31.422Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="RwhTAUJFuSuFfEQPdfWY" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T09:01:46.131Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lrPRMJ1OUcH042JJCO7n" version="16.6.6" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -255,6 +255,12 @@
         </mxCell>
         <mxCell id="exY_T3kePTVqCDpM3PaR-2" value="&lt;h3&gt;日志&lt;/h3&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.direct_data;whiteSpace=wrap;fillColor=#FFE6CC;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="707.5" width="80" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="exY_T3kePTVqCDpM3PaR-3" value="HDFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="640" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="exY_T3kePTVqCDpM3PaR-4" value="消息队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="640" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
