@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T09:01:58.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lfJByea486AHXBIDxEBa" version="16.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-06T09:06:13.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="-hM4OMvfkEPq6SnwYCrI" version="16.6.6" type="github">
   <diagram id="yBQkogD8sNwiqYRaZePr" name="第 1 页">
     <mxGraphModel dx="782" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-81" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fillColor=#DAE8FC;strokeColor=#DAE8FC;strokeWidth=1;labelBackgroundColor=#E6E6E6;" parent="1" vertex="1">
-          <mxGeometry x="10" y="140" width="360" height="530" as="geometry" />
+          <mxGeometry x="10" y="140" width="360" height="540" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-89" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontFamily=Times New Roman;fillColor=#DAE8FC;strokeColor=#DAE8FC;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="140" width="360" height="530" as="geometry" />
+          <mxGeometry x="460" y="140" width="360" height="540" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-15" value="&lt;h2&gt;&lt;font face=&quot;Times New Roman&quot;&gt;&lt;b&gt;dm(集市层)&lt;/b&gt;&lt;/font&gt;&lt;/h2&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFCC;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="20" y="200" width="320" height="60" as="geometry" />
@@ -29,7 +29,7 @@
           <mxGeometry x="12" y="699.5" width="810" height="60" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-38" value="&lt;h2&gt;&lt;b&gt;CDC（flume/canal）&lt;/b&gt;&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="430" y="670" width="170" height="20" as="geometry" />
+          <mxGeometry x="430" y="679.5" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="X9aOVJZBJ18JT7NjNBlV-40" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontFamily=Times New Roman;fillColor=#97D077;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -257,10 +257,10 @@
           <mxGeometry x="310" y="707.5" width="80" height="48" as="geometry" />
         </mxCell>
         <mxCell id="exY_T3kePTVqCDpM3PaR-3" value="HDFS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="150" y="660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="exY_T3kePTVqCDpM3PaR-4" value="消息队列" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="640" width="60" height="30" as="geometry" />
+          <mxGeometry x="610" y="660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
