@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T14:51:50.038Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="uCNpZZmWF1_H_Q56IVCb" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T14:52:27.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JJIVgDKHkmAy8xFr2MOZ" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
-    <mxGraphModel dx="1382" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="1650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="ErQYisSNtyv5BiWGh4sq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;dashed=1;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="80" y="-200" width="530" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="ErQYisSNtyv5BiWGh4sq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=3;dashed=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+        <mxCell id="ErQYisSNtyv5BiWGh4sq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;dashed=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="80" y="170" width="720" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-18" value="移动数字工作台（vipapp）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
