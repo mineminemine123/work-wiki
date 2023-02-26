@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T14:50:22.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="pHQhNlVl30eEL46hNX-3" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-26T14:51:16.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YZGHN-U9gRWRwLJs2u8T" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
     <mxGraphModel dx="1382" dy="1620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,10 +67,10 @@
         <mxCell id="ErQYisSNtyv5BiWGh4sq-31" value="风控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="220" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErQYisSNtyv5BiWGh4sq-32" value="标签看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+        <mxCell id="ErQYisSNtyv5BiWGh4sq-32" value="商城看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="650" y="-160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ErQYisSNtyv5BiWGh4sq-33" value="风控看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+        <mxCell id="ErQYisSNtyv5BiWGh4sq-33" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFF2CC;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="650" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-34" value="平台&amp;amp;系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
