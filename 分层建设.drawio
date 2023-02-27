@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T06:55:47.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Alv6CkHJbeS8DGN-lEv8" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T07:03:59.301Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="WTWFW1GvMd9Vj9ZAJUts" version="20.8.23" type="github">
   <diagram name="第 1 页" id="MpJJtZff5AQATM6ygYIF">
     <mxGraphModel dx="1122" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,9 +28,6 @@
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-5" value="DWD" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
           <mxGeometry x="295" y="465" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="arTTNSpRISgWZkCejGCT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-7" target="arTTNSpRISgWZkCejGCT-5">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-7" value="DIM" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
           <mxGeometry x="295" y="575" width="120" height="60" as="geometry" />
@@ -121,6 +118,15 @@
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-34" value="&lt;font color=&quot;#000000&quot;&gt;数据链路清晰化&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fontSize=14;fontColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="70" y="670" width="850" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-35" value="一致性维度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="250" y="530" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-37" value="" style="endArrow=none;html=1;dashed=1;fontSize=14;fontColor=#000000;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-7" target="arTTNSpRISgWZkCejGCT-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="810" as="sourcePoint" />
+            <mxPoint x="210" y="760" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
