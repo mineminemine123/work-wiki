@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:31:17.283Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ggmAy9dCY1oAGWlUC_7K" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T07:32:17.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hxlRzRBF6Cqo-GaAqOT2" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JSUvzp0A9ffYqXPfsxZi">
     <mxGraphModel dx="1122" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-12" value="业务过程" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
-          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-14" target="ZQcCrLwTL-A52zjqZKLK-17">
           <mxGeometry relative="1" as="geometry" />
@@ -132,9 +132,6 @@
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-41" value="自动构建" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="820" y="776" width="63" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="ZQcCrLwTL-A52zjqZKLK-42" value="取数" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="965" y="850" width="200" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-43" value="" style="shape=cross;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="advanced" diagramName="Cross" vertex="1" parent="1">
           <mxGeometry x="420" y="595" width="40" height="40" as="geometry" />
         </mxCell>
@@ -188,6 +185,9 @@
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-68" value="组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="310" y="690" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-73" value="注册绑定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="1035" y="850" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
