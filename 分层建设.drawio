@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T04:56:28.956Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="JvZdNJoki0Xly-FYt4wN" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T04:58:40.247Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="AVqv9mvhBQ1J16bslEom" version="20.8.23" type="github">
   <diagram name="第 1 页" id="MpJJtZff5AQATM6ygYIF">
     <mxGraphModel dx="1122" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,23 +25,47 @@
         <mxCell id="arTTNSpRISgWZkCejGCT-7" value="DIM" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
           <mxGeometry x="295" y="575" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="arTTNSpRISgWZkCejGCT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-12" target="arTTNSpRISgWZkCejGCT-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="arTTNSpRISgWZkCejGCT-9" value="DM" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="660" y="515" width="120" height="60" as="geometry" />
+        <mxCell id="arTTNSpRISgWZkCejGCT-9" value="集市层（DM)" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="780" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-7" target="arTTNSpRISgWZkCejGCT-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="arTTNSpRISgWZkCejGCT-11" value="依赖链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="426" y="450" width="54" height="20" as="geometry" />
+        <mxCell id="arTTNSpRISgWZkCejGCT-11" value="规范依赖链路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="84" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="arTTNSpRISgWZkCejGCT-12" value="DWS" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="501" y="515" width="120" height="60" as="geometry" />
+        <mxCell id="arTTNSpRISgWZkCejGCT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-12" target="arTTNSpRISgWZkCejGCT-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-12" value="DWS底表" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="480" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-13" value="" style="shape=mxgraph.arrows.u_turn_down_arrow;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1;" diagramCategory="arrow" diagramName="UTurnDownArrow" vertex="1" parent="1">
-          <mxGeometry x="526" y="465" width="58" height="50" as="geometry" />
+          <mxGeometry x="650" y="460" width="58" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="710" as="sourcePoint" />
+            <mxPoint x="270" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="720" as="sourcePoint" />
+            <mxPoint x="430" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-16" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="720" as="sourcePoint" />
+            <mxPoint x="750" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="arTTNSpRISgWZkCejGCT-17" target="arTTNSpRISgWZkCejGCT-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-17" value="DWS" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="620" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
