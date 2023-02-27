@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:22:50.315Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="kx2DXvYnW6srwMD7ErVY" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T07:30:04.275Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hruEHztZSeYSH1Odeiej" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JSUvzp0A9ffYqXPfsxZi">
     <mxGraphModel dx="1122" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="90" y="110" width="1040" height="980" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;strokeColor=none;fillColor=#d5e8d4;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="106" y="560" width="1004" height="90" as="geometry" />
+          <mxGeometry x="270" y="560" width="840" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-3" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;strokeColor=none;fillColor=#dae8fc;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
           <mxGeometry x="359" y="800" width="751" height="120" as="geometry" />
@@ -75,11 +75,14 @@
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-23" value="派生指标" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
           <mxGeometry x="380" y="690" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-24" target="ZQcCrLwTL-A52zjqZKLK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-24" value="衍生原子指标" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
-          <mxGeometry x="120" y="580" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="690" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-25" value="组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="240" y="620" width="40" height="20" as="geometry" />
+          <mxGeometry x="200" y="640" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-26" value="组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="420" y="650" width="40" height="20" as="geometry" />
@@ -99,7 +102,7 @@
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-32" target="ZQcCrLwTL-A52zjqZKLK-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZQcCrLwTL-A52zjqZKLK-32" value="DWS底表（维度+原子指标/衍生原子指标）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-32" value="DWS底表（维度+原子指标）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="330" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-34" target="ZQcCrLwTL-A52zjqZKLK-36">
@@ -182,6 +185,9 @@
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-65" value="任务开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="1030" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-68" value="组合" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="310" y="690" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
