@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:38:48.425Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="bncPzpRqu-dDRF5-c9MD" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T07:39:06.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="NvqBOxkwEIPt4ffouzA-" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JSUvzp0A9ffYqXPfsxZi">
     <mxGraphModel dx="1122" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,6 +189,9 @@
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-73" value="注册绑定" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="995" y="835" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-74" value="服务发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="995" y="970" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
