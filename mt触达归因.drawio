@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T16:29:59.652Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_rM_76TCU-nOJYh2rptD" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T16:30:22.830Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="elHNuAJWied8Wb6nAbXa" version="20.8.23" type="github">
   <diagram name="第 1 页" id="XRB03xl3J-LovOGTKf1S">
     <mxGraphModel dx="794" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -40,8 +40,8 @@
         <mxCell id="d_3fRBbeIFmbs4PP51If-14" value="埋点数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="367" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_3fRBbeIFmbs4PP51If-21" value="触达归因" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="373" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="d_3fRBbeIFmbs4PP51If-21" value="&lt;b&gt;触达归因&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="150" y="110" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
