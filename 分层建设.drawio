@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T06:49:05.934Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="5JWV1-nquqvyeJmDOdTP" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T06:52:20.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Exd7nPEbV5nhqmrDi1Zg" version="20.8.23" type="github">
   <diagram name="第 1 页" id="MpJJtZff5AQATM6ygYIF">
     <mxGraphModel dx="1122" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -81,7 +81,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-22" value="口径一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="440" y="420" width="160" height="30" as="geometry" />
+          <mxGeometry x="440" y="410" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-23" value="one big table" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="450" y="635" width="160" height="30" as="geometry" />
@@ -90,10 +90,10 @@
           <mxGeometry x="287.5" y="640" width="135" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-25" value="粒度跟dwd保持一致" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="450" y="450" width="160" height="30" as="geometry" />
+          <mxGeometry x="450" y="430" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-26" value="agg(x) filter(flag)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="620" y="430" width="140" height="30" as="geometry" />
+          <mxGeometry x="620" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-27" value="" style="endArrow=none;dashed=1;html=1;rounded=0;fontSize=16;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -105,13 +105,19 @@
           <mxGeometry x="282.5" y="430" width="145" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-29" value="agg(x) filter(flag)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="770" y="430" width="140" height="30" as="geometry" />
+          <mxGeometry x="770" y="410" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-30" value="no agg" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="440" y="610" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="arTTNSpRISgWZkCejGCT-31" value="数据完整性" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="267.5" y="410" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-32" value="细粒度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="610" y="430" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="arTTNSpRISgWZkCejGCT-33" value="粗粒度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
