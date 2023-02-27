@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T04:46:59.748Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="A3XLyJbF8VD5HxB3G3gw" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T04:47:31.166Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="s56HbKWVTg2w7yWJmdQC" version="20.8.23" type="github">
   <diagram name="第 1 页" id="j2GRASkofOzrr11gywz8">
     <mxGraphModel dx="1122" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,7 +28,7 @@
         <mxCell id="HokU_z_8G4_rRD86fYAd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="HokU_z_8G4_rRD86fYAd-9" target="HokU_z_8G4_rRD86fYAd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HokU_z_8G4_rRD86fYAd-9" value="实时表（doris）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=2;" vertex="1" parent="1">
+        <mxCell id="HokU_z_8G4_rRD86fYAd-9" value="准实时表（iceberg）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;arcSize=2;" vertex="1" parent="1">
           <mxGeometry x="320" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HokU_z_8G4_rRD86fYAd-10" value="同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
