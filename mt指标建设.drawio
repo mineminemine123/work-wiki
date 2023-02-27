@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T07:19:11.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Rhd4OB23k-4a3407moib" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-27T07:21:31.572Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jNtuCN7jBO1GLjT1kROL" version="20.8.23" type="github">
   <diagram name="第 1 页" id="JSUvzp0A9ffYqXPfsxZi">
-    <mxGraphModel dx="1122" dy="540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,13 +96,13 @@
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-30" value="DWD表" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
           <mxGeometry x="640" y="370" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQcCrLwTL-A52zjqZKLK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-32" target="ZQcCrLwTL-A52zjqZKLK-34">
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-32" target="ZQcCrLwTL-A52zjqZKLK-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-32" value="DWS底表（维度+原子指标/衍生原子指标）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
           <mxGeometry x="640" y="570" width="330" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZQcCrLwTL-A52zjqZKLK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-34" target="ZQcCrLwTL-A52zjqZKLK-36">
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-34" target="ZQcCrLwTL-A52zjqZKLK-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-34" value="DWS汇表（粒度组合+派生指标）" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
@@ -135,17 +135,11 @@
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-43" value="" style="shape=cross;whiteSpace=wrap;html=1;fontStyle=1" diagramCategory="advanced" diagramName="Cross" vertex="1" parent="1">
           <mxGeometry x="420" y="595" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ZQcCrLwTL-A52zjqZKLK-44" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=2;fontStyle=1;exitX=0.511;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" diagramCategory="general" diagramName="straight" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-49">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="619.5" y="960" as="sourcePoint" />
-            <mxPoint x="619.5" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-45" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;模型&lt;/span&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="700" y="140" width="120" height="50" as="geometry" />
+          <mxGeometry x="707" y="140" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-46" value="&lt;span style=&quot;font-size: 22px;&quot;&gt;开发&lt;/span&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="700" y="208.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="710" y="210" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-47" value="&lt;font style=&quot;font-size: 22px;&quot;&gt;定义&lt;/font&gt;" style="text;html=1;strokeColor=#000000;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="390" y="210" width="126" height="47" as="geometry" />
@@ -173,6 +167,15 @@
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-55" value="物理模型" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="940" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-62" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;strokeColor=none;fontSize=15;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="580" y="172.5" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ZQcCrLwTL-A52zjqZKLK-44" value="" style="endArrow=none;html=1;dashed=1;strokeWidth=2;fontStyle=1;exitX=0.511;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" diagramCategory="general" diagramName="straight" edge="1" parent="1" source="ZQcCrLwTL-A52zjqZKLK-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="619.5" y="960" as="sourcePoint" />
+            <mxPoint x="619.5" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
