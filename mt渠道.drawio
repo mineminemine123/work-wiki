@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:04:12.610Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="20.8.23" etag="HWRunJKXkVRHr1Pes6MK" type="github"><diagram name="第 1 页" id="nfjLG6z6RxA7ImRb_6_W">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:04:55.064Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="OHsZVr7SF6n4xNesnIbn" version="20.8.23" type="github">
+  <diagram name="第 1 页" id="nfjLG6z6RxA7ImRb_6_W">
+    <mxGraphModel dx="1547" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="-112" y="270" width="572" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-2" value="用户渠道归因轻度汇总数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="26" y="250" width="246" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-3" value="" style="group" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="-80" y="300" width="500" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-4" value="扫码时间&amp;lt;注册时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" diagramCategory="general" diagramName="text" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="302.08333333333326" y="165.27777777777774" width="163.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry width="361.67371466726" height="101.27659574468086" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-6" value="登陆" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="254.20356730624897" y="28.93617021276596" width="96.2737902370095" height="43.40425531914892" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;dashed=1;" edge="1" parent="Ae2xsXDVZNMWskplE-0U-3" source="Ae2xsXDVZNMWskplE-0U-8" target="Ae2xsXDVZNMWskplE-0U-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-8" value="下载" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="132.7006092164037" y="28.03191489361702" width="96.27249623445252" height="45.21276595744681" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;dashed=1;" edge="1" parent="Ae2xsXDVZNMWskplE-0U-3" source="Ae2xsXDVZNMWskplE-0U-10" target="Ae2xsXDVZNMWskplE-0U-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-10" value="扫码" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="5.498216864476568" y="28.93617021276596" width="96.2737902370095" height="43.40425531914892" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-11" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ipua算法匹配user_id&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=14;" diagramCategory="general" diagramName="text" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="80.43421052631578" y="81.92521739130434" width="200.81578947368422" height="14.464782608695652" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-12" value="注册" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="403.7262097629904" y="25.319148936170215" width="96.2737902370095" height="43.40425531914892" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;dashed=1;" edge="1" parent="Ae2xsXDVZNMWskplE-0U-3" source="Ae2xsXDVZNMWskplE-0U-8" target="Ae2xsXDVZNMWskplE-0U-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="319.6217534497427" y="115.74468085106383" width="100.93219944202606" height="43.40425531914892" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="Ae2xsXDVZNMWskplE-0U-3" target="Ae2xsXDVZNMWskplE-0U-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175.55555555555554" y="99.65517241379311" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="175.55555555555554" y="137.75862068965517" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="Ae2xsXDVZNMWskplE-0U-3" source="Ae2xsXDVZNMWskplE-0U-12" target="Ae2xsXDVZNMWskplE-0U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-17" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;user_id末次归因渠道&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" diagramCategory="general" diagramName="text" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+          <mxGeometry x="328.0327700699115" y="137.44680851063825" width="84.1101662016884" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
