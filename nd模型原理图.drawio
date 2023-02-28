@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T04:54:12.009Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1bjnx-bVLnrWzzvXxU0i" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T04:54:58.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zyfRPdRjuN74v-OU3kRA" version="20.8.23" type="github">
   <diagram id="XNNLvGDx6GEtNMZaRpZD" name="第 1 页">
     <mxGraphModel dx="1084" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3CAmUs-F5Avbqz42CMJ2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="400" height="400" as="geometry" />
+        </mxCell>
         <mxCell id="ZBi3ksOXHOeN2kDVRpAS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="ZBi3ksOXHOeN2kDVRpAS-1" target="ZBi3ksOXHOeN2kDVRpAS-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -78,6 +81,9 @@
         </mxCell>
         <mxCell id="ZBi3ksOXHOeN2kDVRpAS-40" value="&lt;span&gt;合并365天用户&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="260" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3CAmUs-F5Avbqz42CMJ2-2" value="巧用bitmap思路" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="238.5" y="90" width="93" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
