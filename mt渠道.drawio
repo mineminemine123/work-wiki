@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-28T17:05:12.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yGsBhek5M6prb6VZSsX_" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T17:05:45.217Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nqa7-ZZcYTyioEFFEih7" version="20.8.23" type="github">
   <diagram name="第 1 页" id="nfjLG6z6RxA7ImRb_6_W">
     <mxGraphModel dx="1547" dy="448" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="Ae2xsXDVZNMWskplE-0U-4" value="扫码时间&amp;lt;注册时间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=12;" diagramCategory="general" diagramName="text" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
           <mxGeometry x="288.21333333333325" y="169.99777777777774" width="163.75" as="geometry" />
         </mxCell>
-        <mxCell id="Ae2xsXDVZNMWskplE-0U-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
+        <mxCell id="Ae2xsXDVZNMWskplE-0U-5" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontSize=14;fillColor=#fff2cc;strokeColor=none;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
           <mxGeometry width="361.67371466726" height="101.27659574468086" as="geometry" />
         </mxCell>
         <mxCell id="Ae2xsXDVZNMWskplE-0U-6" value="登陆" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="Ae2xsXDVZNMWskplE-0U-3">
