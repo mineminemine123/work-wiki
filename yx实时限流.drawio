@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T16:57:23.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6iKQeiSnsculjgIjR1Kj" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-28T02:25:57.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="D2lre5uNXz6-c1TotpPb" version="20.8.23" type="github">
   <diagram name="第 1 页" id="ULvypwy22e18V9TjiU58">
-    <mxGraphModel dx="794" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="382" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KJgXVakToI8pzOq59cQv-1" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.bucket;fillColor=#A9C4EB;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="140" width="110" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="KJgXVakToI8pzOq59cQv-3" value="令牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJgXVakToI8pzOq59cQv-7" value="令牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJgXVakToI8pzOq59cQv-8" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="60" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KJgXVakToI8pzOq59cQv-9" value="令牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KJgXVakToI8pzOq59cQv-10" value="令牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="100" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
