@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:31:09.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="60dKQSAMdRMYuoWMqRRc" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:39:25.706Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ng40delB5d96P3n4OeX7" version="20.8.23" type="github">
   <diagram name="第 1 页" id="9t_LCf5cB-b87G4GpCwc">
     <mxGraphModel dx="1084" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="ABy7lw26F6PikiW-eUqZ-33" value="&lt;ul&gt;&lt;li&gt;环境隔离&lt;/li&gt;&lt;li&gt;性能&amp;amp;稳定&lt;/li&gt;&lt;li&gt;code review&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="557.49" y="-128.75" width="114" height="48.75" as="geometry" />
         </mxCell>
-        <mxCell id="ABy7lw26F6PikiW-eUqZ-34" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;卡点&lt;/span&gt;&lt;/li&gt;&lt;li&gt;链路感知&lt;/li&gt;&lt;li&gt;稽核规则配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
+        <mxCell id="ABy7lw26F6PikiW-eUqZ-34" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;卡点&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;链路感知&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;稽核规则配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="557.49" y="-11.870000000000003" width="114" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;模型设计&amp;amp;评审&lt;/li&gt;&lt;li&gt;开发规范&lt;/li&gt;&lt;li&gt;数据形态探查&lt;/li&gt;&lt;li&gt;业务数据比对&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" parent="1" vertex="1">
@@ -115,122 +115,122 @@
         <mxCell id="ABy7lw26F6PikiW-eUqZ-80" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;链路监控&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#ed7d31;" parent="1" vertex="1">
           <mxGeometry x="800" y="-140.94" width="70" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="100" y="260" width="456.61" height="395" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="329.72555555555556" y="90" width="166.6988888888889" height="282.6605504587156" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-2" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="79.72555555555554" width="166.6988888888889" height="282.6605504587156" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-3" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;主题域A&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="344.2211111111111" y="234.954128440367" width="86.97333333333333" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-3" value="主题域A" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="94.22111111111111" y="144.954128440367" width="86.97333333333333" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-5" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;需求&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="619.6366666666667" y="209.58715596330273" width="86.97333333333333" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-5" value="需求" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="369.63666666666666" y="119.58715596330275" width="86.97333333333333" height="43.48623853211009" as="geometry" />
-        </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36" source="AeJb_-g4OJ0gDthynvQF-7" target="AeJb_-g4OJ0gDthynvQF-3">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-7" target="AeJb_-g4OJ0gDthynvQF-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-7" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="advanced" diagramName="User" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry y="144.954128440367" width="28.99111111111111" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-7" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="advanced" diagramName="User" vertex="1" parent="1">
+          <mxGeometry x="250" y="234.954128440367" width="28.99111111111111" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-9" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="advanced" diagramName="User" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry y="224.6788990825688" width="28.99111111111111" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-9" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="advanced" diagramName="User" vertex="1" parent="1">
+          <mxGeometry x="250" y="314.6788990825688" width="28.99111111111111" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-10" value="主题域B" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="94.22111111111111" y="224.6788990825688" width="86.97333333333333" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-10" value="主题域B" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="344.2211111111111" y="314.6788990825688" width="86.97333333333333" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36" source="AeJb_-g4OJ0gDthynvQF-9" target="AeJb_-g4OJ0gDthynvQF-10">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1;" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-9" target="AeJb_-g4OJ0gDthynvQF-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-11" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry y="173.94495412844037" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-11" value="A" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="250" y="263.9449541284404" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-12" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry y="253.6697247706422" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-12" value="B" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="250" y="343.66972477064223" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-13" value="负责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="43.486666666666665" y="144.954128440367" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-13" value="负责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="293.4866666666667" y="234.954128440367" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-14" value="负责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="43.486666666666665" y="224.6788990825688" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-14" value="负责" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="293.4866666666667" y="314.6788990825688" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-15" value="》》》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry y="202.93577981651376" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-15" value="》》》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="250" y="292.9357798165138" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-16" value="》》》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="123.21222222222221" y="202.93577981651376" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-16" value="》》》" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="373.2122222222222" y="292.9357798165138" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-17" value="统一收口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="260" y="119.58999999999999" width="26.33" height="14.5" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-17" value="统一收口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="510" y="209.58999999999997" width="26.33" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-18" value="单点" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="79.72555555555554" y="297.1559633027523" width="57.98222222222222" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-18" value="单点" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="329.72555555555556" y="387.1559633027523" width="57.98222222222222" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-19" value="多点" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="181.19444444444443" y="297.1559633027523" width="65.23" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-19" value="多点" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="431.19444444444446" y="387.1559633027523" width="65.23" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-20" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="advanced" diagramName="User" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="304.40666666666664" y="119.58715596330275" width="28.99111111111111" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-20" value="" style="shape=actor;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="advanced" diagramName="User" vertex="1" parent="1">
+          <mxGeometry x="554.4066666666666" y="209.58715596330273" width="28.99111111111111" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=openAsync;endFill=0;fontStyle=1;" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36" source="AeJb_-g4OJ0gDthynvQF-2" target="AeJb_-g4OJ0gDthynvQF-20">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=openAsync;endFill=0;fontStyle=1;" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-2" target="AeJb_-g4OJ0gDthynvQF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36" source="AeJb_-g4OJ0gDthynvQF-5" target="AeJb_-g4OJ0gDthynvQF-20">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.9;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=16;fontStyle=1;" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-5" target="AeJb_-g4OJ0gDthynvQF-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-21" value="" style="shape=flexArrow;endArrow=classic;html=1;fontStyle=1;" diagramCategory="general" diagramName="arrow" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-21" value="" style="shape=flexArrow;endArrow=classic;html=1;fontStyle=1;" diagramCategory="general" diagramName="arrow" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="144.95555555555555" y="318.5366972477064" as="sourcePoint" />
-            <mxPoint x="173.94666666666666" y="318.5366972477064" as="targetPoint" />
+            <mxPoint x="394.9555555555555" y="408.5366972477064" as="sourcePoint" />
+            <mxPoint x="423.94666666666666" y="408.5366972477064" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据沙盘&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="137.71" y="7.25" width="62.29" height="14.5" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#66B2FF;strokeWidth=2;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=14;fontColor=#FFFFFF;" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-22" target="AeJb_-g4OJ0gDthynvQF-27">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-23" value="单线程" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="79.72555555555554" y="351.5137614678899" width="57.98222222222222" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-22" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;数据沙盘&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="387.71000000000004" y="97.25" width="62.29" height="14.5" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-24" value="多线程" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="181.19444444444443" y="351.5137614678899" width="65.23" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-23" value="单线程" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="329.72555555555556" y="441.5137614678899" width="57.98222222222222" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontStyle=1;" diagramCategory="general" diagramName="arrow" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-24" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;多线程&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;container=0;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="431.19444444444446" y="441.5137614678899" width="65.23" height="43.48623853211009" as="geometry" />
+        </mxCell>
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-25" value="" style="shape=flexArrow;endArrow=classic;html=1;fontStyle=1;" diagramCategory="general" diagramName="arrow" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="144.95555555555555" y="372.89449541284404" as="sourcePoint" />
-            <mxPoint x="173.94666666666666" y="372.89449541284404" as="targetPoint" />
+            <mxPoint x="394.9555555555555" y="462.89449541284404" as="sourcePoint" />
+            <mxPoint x="423.94666666666666" y="462.89449541284404" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-26" value="核心表改造记录" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="166.6988888888889" y="28.990825688073393" width="71.02822222222223" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-26" value="核心表改造记录" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;container=0;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="1">
+          <mxGeometry x="416.69888888888886" y="118.99082568807339" width="71.02822222222223" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-27" value="主题域白皮书" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="88.42288888888888" y="28.990825688073393" width="71.02822222222223" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-27" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;主题域白皮书&lt;/font&gt;" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;fontStyle=1;container=0;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="1">
+          <mxGeometry x="338.4228888888889" y="118.99082568807339" width="71.02822222222223" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-28" value="" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;rotation=-180;fontStyle=1;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="88.42288888888888" y="72.4770642201835" width="71.02822222222223" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-28" value="" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;rotation=-180;fontStyle=1;container=0;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="1">
+          <mxGeometry x="338.4228888888889" y="162.47706422018348" width="71.02822222222223" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-29" value="常见FAQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="94.22111111111111" y="86.97247706422019" width="57.98222222222222" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-29" value="常见FAQ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="344.2211111111111" y="176.9724770642202" width="57.98222222222222" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-30" value="" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;rotation=-180;fontStyle=1;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="166.6988888888889" y="72.4770642201835" width="71.02822222222223" height="43.48623853211009" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-30" value="" style="shape=mxgraph.flowchart.document;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;rotation=-180;fontStyle=1;container=0;" diagramCategory="Flowchart" diagramName="Document" vertex="1" parent="1">
+          <mxGeometry x="416.69888888888886" y="162.47706422018348" width="71.02822222222223" height="43.48623853211009" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-31" value="数据问题记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="172.4971111111111" y="86.97247706422019" width="57.98222222222222" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-31" value="数据问题记录" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="422.4971111111111" y="176.9724770642202" width="57.98222222222222" height="14.495412844036696" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-32" value="" style="endArrow=openAsync;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endFill=0;fontStyle=1;" diagramCategory="general" diagramName="DirectionalConnector" edge="1" parent="AeJb_-g4OJ0gDthynvQF-36" source="AeJb_-g4OJ0gDthynvQF-20">
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-32" value="" style="endArrow=openAsync;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;endFill=0;fontStyle=1;" diagramCategory="general" diagramName="DirectionalConnector" edge="1" parent="1" source="AeJb_-g4OJ0gDthynvQF-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="297.1588888888889" y="152.2018348623853" as="sourcePoint" />
-            <mxPoint x="246.42444444444442" y="151.8394495412844" as="targetPoint" />
+            <mxPoint x="547.1588888888889" y="242.2018348623853" as="sourcePoint" />
+            <mxPoint x="496.4244444444444" y="241.8394495412844" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-33" value="资源协调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="260" y="144.95" width="26.33" height="47.8" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-33" value="资源协调" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="510" y="234.95" width="26.33" height="47.8" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-34" value="" style="shape=mxgraph.arrows.u_turn_left_arrow;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;" diagramCategory="arrow" diagramName="UTurnLeftArrow" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="185.5431111111111" y="168.87155963302752" width="44.93622222222222" height="70.30275229357798" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-34" value="" style="shape=mxgraph.arrows.u_turn_left_arrow;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=2;container=0;" diagramCategory="arrow" diagramName="UTurnLeftArrow" vertex="1" parent="1">
+          <mxGeometry x="435.5431111111111" y="258.8715596330275" width="44.93622222222222" height="70.30275229357798" as="geometry" />
         </mxCell>
-        <mxCell id="AeJb_-g4OJ0gDthynvQF-35" value="backup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" diagramCategory="general" diagramName="text" vertex="1" parent="AeJb_-g4OJ0gDthynvQF-36">
-          <mxGeometry x="193.51566666666665" y="188.44036697247708" width="28.99111111111111" height="14.495412844036696" as="geometry" />
+        <mxCell id="AeJb_-g4OJ0gDthynvQF-35" value="backup" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;container=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="443.5156666666667" y="278.4403669724771" width="28.99111111111111" height="14.495412844036696" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
