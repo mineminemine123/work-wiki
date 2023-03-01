@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T08:00:27.457Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="VhW9sLeruCBiFXW5zInf" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T08:01:54.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ADXkfdV_Ul9Y4bksn_X6" version="20.8.23" type="github">
   <diagram name="第 1 页" id="9t_LCf5cB-b87G4GpCwc">
     <mxGraphModel dx="1084" dy="1557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-7" value="&lt;h6&gt;数据处理&amp;amp;服务&lt;/h6&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="330" y="210" width="155" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="ABy7lw26F6PikiW-eUqZ-9" value="&lt;h2&gt;质量保障&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="502.5" y="-440" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#CC6600;" edge="1" parent="1" source="ABy7lw26F6PikiW-eUqZ-21" target="ABy7lw26F6PikiW-eUqZ-23">
           <mxGeometry relative="1" as="geometry" />
@@ -56,10 +53,10 @@
           <mxGeometry x="570" y="-99.37" width="114" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-34" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;卡点&lt;/span&gt;&lt;/li&gt;&lt;li&gt;链路感知&lt;/li&gt;&lt;li&gt;稽核规则配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="760" y="100" width="114" height="38.75" as="geometry" />
+          <mxGeometry x="564" y="19.379999999999995" width="114" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;设计开发规范&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span&gt;模型评审&lt;/span&gt;&lt;/li&gt;&lt;li&gt;数据形态探查&lt;/li&gt;&lt;li&gt;业务数据比对&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="564" y="6.8799999999999955" width="126" height="73.75" as="geometry" />
+          <mxGeometry x="564" y="-186.87" width="126" height="73.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-36" value="&lt;ul&gt;&lt;li&gt;分流、限流、熔断&lt;/li&gt;&lt;li&gt;分级&amp;amp;基线运维&lt;/li&gt;&lt;li&gt;快速恢复&lt;/li&gt;&lt;li&gt;兜底&lt;/li&gt;&lt;li&gt;单表&amp;amp;异构数据源比对&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="760" y="-105" width="190" height="80" as="geometry" />
