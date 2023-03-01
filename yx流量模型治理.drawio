@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T15:32:54.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="63ENLcsHr-ynxXB-yvgU" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T15:36:56.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TrPXZ5c-TK1Say09OzPv" version="20.8.23" type="github">
   <diagram name="第 1 页" id="2HcNpDpKpD43kfRhDceQ">
     <mxGraphModel dx="797" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -105,6 +105,24 @@
         </mxCell>
         <mxCell id="4aYSIVUjviSoJk4caTvQ-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;任务运维&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fontSize=14;fillColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="697.5" y="460" width="82.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=default;strokeWidth=2;strokeColor=#999999;" vertex="1" parent="1">
+          <mxGeometry x="60" y="520" width="750" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;机制规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="70" y="525" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="531.25" width="122.5" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;依赖规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="531.25" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;公共层建设机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="517.5" y="531.25" width="120" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gpzjmdm7jTk252mn6LHU-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型生命周期机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
