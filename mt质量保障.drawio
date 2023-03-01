@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T07:25:47.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="I-VOej-psa2WbgZPhcCL" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T07:35:35.687Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CXmEqLobSbd3UVkjV6G3" version="20.8.23" type="github">
   <diagram name="第 1 页" id="9t_LCf5cB-b87G4GpCwc">
     <mxGraphModel dx="1084" dy="1699" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="ABy7lw26F6PikiW-eUqZ-32" value="数据发布" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#D5E8D4;" vertex="1" parent="1">
           <mxGeometry x="515" y="29.379999999999995" width="65" height="28.75" as="geometry" />
         </mxCell>
-        <mxCell id="ABy7lw26F6PikiW-eUqZ-33" value="&lt;ul&gt;&lt;li&gt;环境隔离&lt;/li&gt;&lt;li&gt;数据比对&lt;/li&gt;&lt;li&gt;code review&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="ABy7lw26F6PikiW-eUqZ-33" value="&lt;ul&gt;&lt;li&gt;环境隔离&lt;/li&gt;&lt;li&gt;性能&amp;amp;稳定&lt;/li&gt;&lt;li&gt;code review&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="570" y="-80" width="114" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-34" value="&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;卡点&lt;/span&gt;&lt;/li&gt;&lt;li&gt;链路感知&lt;/li&gt;&lt;li&gt;稽核规则配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;" vertex="1" parent="1">
