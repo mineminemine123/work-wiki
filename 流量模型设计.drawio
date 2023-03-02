@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-26T16:01:22.303Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8OlSPr21TVNlzFctp9PZ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T03:03:47.757Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="qZnj7iNReFos5TXBH9mp" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
-    <mxGraphModel dx="1621" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1911" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,25 +20,25 @@
           <mxGeometry y="10" width="70" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;dashed=1;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="80" y="-200" width="530" height="190" as="geometry" />
+          <mxGeometry x="80" y="-120" width="530" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-17" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#990000;strokeWidth=2;dashed=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="80" y="170" width="720" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-18" value="移动数字工作台（vipapp）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="87.5" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-19" value="数字化运营工作台&lt;br&gt;（DMP/渠道投放）" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="220" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-20" value="数字大屏" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="87.5" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="87.5" y="-60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-21" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;dashed=1;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="620" y="-200" width="180" height="190" as="geometry" />
+          <mxGeometry x="620" y="-120" width="180" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-22" value="商城" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="480" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="-60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-23" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;fontFamily=微软雅黑;dashed=1;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="80" y="10" width="720" height="140" as="geometry" />
@@ -56,28 +56,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-28" value="门店系统" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="350" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="-60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-29" value="舆情" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="350" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="350" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-30" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="480" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-31" value="风控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="220" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="-60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-32" value="商城看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="650" y="-160" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="-100" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-33" value="&lt;b&gt;...&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="650" y="-90" width="120" height="60" as="geometry" />
+          <mxGeometry x="650" y="-60" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-34" value="平台&amp;amp;系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
-          <mxGeometry x="317.75" y="-190" width="65" height="20" as="geometry" />
+          <mxGeometry x="312.5" y="-122" width="65" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-35" value="BI报表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontStyle=1;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
-          <mxGeometry x="680" y="-190" width="40" height="20" as="geometry" />
+          <mxGeometry x="687" y="-120" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;strokeColor=none;fillColor=#FFF2CC;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="94" y="37.5" width="246" height="92.5" as="geometry" />
@@ -113,10 +113,10 @@
           <mxGeometry x="526" y="77" width="54" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2noMWRmmMPCMAu7wt3I-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;strokeColor=none;fillColor=#ffe6cc;" parent="1" vertex="1">
-          <mxGeometry y="-200" width="70" height="190" as="geometry" />
+          <mxGeometry y="-120" width="70" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-11" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;应用层&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
-          <mxGeometry y="-120" width="70" height="20" as="geometry" />
+          <mxGeometry y="-80" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据源&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry y="450" width="70" height="20" as="geometry" />
