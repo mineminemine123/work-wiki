@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-02T04:36:23.225Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="R6wzYTxcxt36n0aMqjOQ" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-02T04:36:40.577Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1MLtWUU_0-S2TwoqVgKy" version="20.8.23" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
     <mxGraphModel dx="1911" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,41 +154,41 @@
         <mxCell id="_2noMWRmmMPCMAu7wt3I-60" value="质量保障" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="640.4399999999999" y="210" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-63" value="航海日志" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="687" y="320" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-63" value="航海日志" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="689.75" y="305" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-64" value="值班运维" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="687" y="275" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-64" value="值班运维" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="689.75" y="260" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-66" value="链路血缘" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="592" y="320" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-66" value="链路血缘" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="594.75" y="305" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-68" value="域划分" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="124.5" y="270" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-68" value="域划分" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="127.25" y="255" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-69" value="分层建设" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="270" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-69" value="分层建设" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="222.75" y="255" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-70" value="指标建设" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="124.5" y="320" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-70" value="指标建设" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="127.25" y="305" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-71" value="卡点监控" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="592" y="275" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-71" value="卡点监控" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="594.75" y="260" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-72" value="开发模板" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="320" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-72" value="开发模板" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="222.75" y="305" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-73" value="口径收敛" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="363" y="320" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-73" value="口径收敛" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="365.75" y="305" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-74" value="日志场景落地" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;gradientColor=#FFFFFF;gradientDirection=east;" parent="1" vertex="1">
-          <mxGeometry x="363" y="275" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-74" value="日志场景落地" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;gradientColor=#FFFFFF;gradientDirection=east;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="365.75" y="260" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-75" value="准实时覆盖" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="457" y="275" width="83" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-75" value="准实时覆盖" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="459.75" y="260" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-76" value="业务需求覆盖" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;" parent="1" vertex="1">
-          <mxGeometry x="457" y="320" width="82" height="40" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-76" value="业务需求覆盖" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="459.75" y="305" width="82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_2noMWRmmMPCMAu7wt3I-91" value="&lt;b&gt;监控&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;strokeColor=none;fillColor=#dae8fc;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="600" y="87.5" width="91" height="42.5" as="geometry" />
