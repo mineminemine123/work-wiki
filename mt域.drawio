@@ -1,98 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2023-02-27T04:54:18.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ow0Dw3GQQ0yjLFz0jOP9" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T15:01:26.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TNjBKz8npwXS-oq6S2n8" version="21.0.2" type="github">
   <diagram name="第 1 页" id="Oym6-fGzjdntw0d3xKLU">
-    <mxGraphModel dx="1158" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="797" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="20" y="130" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="20" y="370" width="420" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-3" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="460" y="130" width="430" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-4" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="460" y="370" width="430" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-5" value="流量域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-5" value="流量域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry x="470" y="380" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-6" value="公共域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-6" value="公共域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry x="470" y="140" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-7" value="交易域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-7" value="交易域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry x="30" y="140" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-8" value="用户域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-8" value="用户域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry x="30" y="380" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-9" value="申购" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-9" value="申购" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="60" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-10" value="云购" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-10" value="云购" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="250" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-11" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-11" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="35" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-12" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-12" value="商品" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-13" value="门店" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-13" value="门店" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="710" y="230" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-14" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-14" value="游戏" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="170" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-15" value="用户评论" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-15" value="用户评论" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="310" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-16" value="用户触达" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-16" value="用户触达" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="35" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-17" value="用户反馈" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-17" value="用户反馈" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-18" value="客户咨询" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-18" value="客户咨询" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="310" y="525" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-19" value="用户基础行为数据" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="500" y="460" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-19" value="用户基础行为数据" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="500" y="470" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-20" value="后端日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="695" y="460" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-20" value="后端日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="695" y="470" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
-          <mxGeometry x="910" y="130" width="420" height="220" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-21" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
+          <mxGeometry x="20" y="620" width="420" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-22" value="供应链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="920" y="140" width="70" height="20" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-22" value="供应链" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
+          <mxGeometry x="30" y="630" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-23" value="入库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="940" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-23" value="入库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="50" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-24" value="出库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="1160" y="220" width="120" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-24" value="出库" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="270" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
-          <mxGeometry x="910" y="370" width="420" height="240" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-25" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fontStyle=1;strokeColor=none;fillColor=#A9C4EB;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
+          <mxGeometry x="460" y="620" width="430" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-26" value="风控域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1" diagramCategory="general" diagramName="text" vertex="1" parent="1">
-          <mxGeometry x="920" y="380" width="70" height="20" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-26" value="风控域" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
+          <mxGeometry x="470" y="630" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-27" value="标签" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="950" y="435" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-27" value="标签" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="500" y="670" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-28" value="拦截日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="1145" y="525" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-28" value="拦截日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="695" y="760" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-29" value="规则" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="950" y="525" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-29" value="规则" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="500" y="760" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="R6NKrEQnGsE-9a5KGaIi-30" value="请求日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="1140" y="435" width="150" height="60" as="geometry" />
+        <mxCell id="R6NKrEQnGsE-9a5KGaIi-30" value="请求日志" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;dashed=1;fontSize=16;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+          <mxGeometry x="695" y="670" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
