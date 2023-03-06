@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:41:20.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="xLbgCSZD7Kc-nmOC50OW" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:43:00.115Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Y6-niHH6WYoB0iumAOql" version="21.0.2" type="github">
   <diagram name="第 1 页" id="QqnSfi7Ya7M0dYYR_4Zv">
     <mxGraphModel dx="797" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" parent="1" source="un65Aq28Jv2RrzTGQJQ4-7" target="un65Aq28Jv2RrzTGQJQ4-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="un65Aq28Jv2RrzTGQJQ4-7" value="服务编码" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-7" value="产品模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="200" y="180" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
