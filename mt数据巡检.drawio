@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:27:57.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ghSc2_W8RwbJHUEVObqK" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:28:08.111Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Wu-xebLgWf4iRpfNseEX" version="21.0.2" type="github">
   <diagram name="第 1 页" id="QqnSfi7Ya7M0dYYR_4Zv">
     <mxGraphModel dx="797" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -57,12 +57,6 @@
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-22" value="物理表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="470" y="85" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBbLwjD21pBMDfrYCW_J-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="250" as="sourcePoint" />
-            <mxPoint x="440" y="200" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="fBbLwjD21pBMDfrYCW_J-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
