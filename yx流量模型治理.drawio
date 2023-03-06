@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T15:36:56.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TrPXZ5c-TK1Say09OzPv" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T06:07:57.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="gUsqd8U8l62Z5it7IeiL" version="20.8.23" type="github">
   <diagram name="第 1 页" id="2HcNpDpKpD43kfRhDceQ">
-    <mxGraphModel dx="797" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1084" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="4aYSIVUjviSoJk4caTvQ-8" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;集市层效率问题&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="632.5" y="140" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4aYSIVUjviSoJk4caTvQ-9" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NvjLdLeH9o8p6bxKR6Vcqu8Snof&quot;&gt;&lt;div class=&quot;old-record-id-doxcnHVmCM9QDL73qTxH1DIglHe&quot; style=&quot;text-align: left;&quot;&gt;&lt;ol&gt;&lt;li&gt;命名不规范&amp;nbsp;&lt;/li&gt;&lt;li&gt;系统临时表多，只增不删 &lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="4aYSIVUjviSoJk4caTvQ-9" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NvjLdLeH9o8p6bxKR6Vcqu8Snof&quot;&gt;&lt;div class=&quot;old-record-id-doxcnHVmCM9QDL73qTxH1DIglHe&quot; style=&quot;text-align: left;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;font face=&quot;Tilt Prism&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Tilt+Prism&quot;&gt;命名不规范&amp;nbsp;&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font face=&quot;Tilt Prism&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Tilt+Prism&quot;&gt;系统临时表多，只增不删 &lt;/font&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="190" y="180" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="4aYSIVUjviSoJk4caTvQ-10" value="&lt;div style=&quot;font-size: 12px;&quot; data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NvjLdLeH9o8p6bxKR6Vcqu8Snof&quot;&gt;&lt;div class=&quot;old-record-id-doxcnHVmCM9QDL73qTxH1DIglHe&quot; style=&quot;text-align: left;&quot;&gt;&lt;ol&gt;&lt;li&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-page-id=&quot;NvjLdLeH9o8p6bxKR6Vcqu8Snof&quot;&gt;&lt;div class=&quot;old-record-id-doxcnEivKlTUM0fDhylv8IOwnDc&quot; style=&quot;&quot;&gt; 集市层共性逻辑未下沉&lt;/div&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;&lt;div class=&quot;old-record-id-doxcnEivKlTUM0fDhylv8IOwnDc&quot; style=&quot;&quot;&gt;公共层过渡设计&lt;/div&gt;&lt;/li&gt;&lt;/ol&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
@@ -106,22 +106,22 @@
         <mxCell id="4aYSIVUjviSoJk4caTvQ-41" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;任务运维&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fontSize=14;fillColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="697.5" y="460" width="82.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=default;strokeWidth=2;strokeColor=#999999;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fillColor=default;strokeWidth=2;strokeColor=#999999;" parent="1" vertex="1">
           <mxGeometry x="60" y="520" width="750" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;机制规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;机制规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="70" y="525" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="531.25" width="122.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;依赖规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;依赖规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="360" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;公共层建设机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;公共层建设机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="517.5" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型生命周期机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" vertex="1" parent="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型生命周期机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="652.5" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
       </root>
