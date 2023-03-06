@@ -1,1 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:16:32.649Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.2" etag="oJ34EJoAA6mqH4aEH0NV" type="github"><diagram name="第 1 页" id="QqnSfi7Ya7M0dYYR_4Zv">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:17:10.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-LoGVw51UCAccu9W4Ypm" version="21.0.2" type="github">
+  <diagram name="第 1 页" id="QqnSfi7Ya7M0dYYR_4Zv">
+    <mxGraphModel dx="797" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="un65Aq28Jv2RrzTGQJQ4-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-3" value="模块&amp;amp;服务血缘数据" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="247" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-4" value="tesla" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="300" y="295" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="un65Aq28Jv2RrzTGQJQ4-7" target="un65Aq28Jv2RrzTGQJQ4-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="un65Aq28Jv2RrzTGQJQ4-7" target="un65Aq28Jv2RrzTGQJQ4-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-7" value="服务编码" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-8" value="入湖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="610" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-10" value="waiter" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-11" value="服务状态" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=微软雅黑;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="705" y="99.5" as="targetPoint" />
+            <mxPoint x="590" y="99.5" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-13" value="接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="610" y="70" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-14" value="数据组合报表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="707" y="70" width="120" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-15" value="物理表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-16" value="访问热度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="314" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-17" value="" style="group;fontFamily=微软雅黑;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="350" y="260" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-18" value="模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="un65Aq28Jv2RrzTGQJQ4-17">
+          <mxGeometry width="70" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-19" value="接口" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="un65Aq28Jv2RrzTGQJQ4-17">
+          <mxGeometry y="62.857142857142854" width="70" height="47.14285714285714" as="geometry" />
+        </mxCell>
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=微软雅黑;" edge="1" parent="un65Aq28Jv2RrzTGQJQ4-17" source="un65Aq28Jv2RrzTGQJQ4-18" target="un65Aq28Jv2RrzTGQJQ4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
