@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T10:52:33.310Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-G32BDoyK-tMyPBlwbEu" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T10:53:11.478Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="jwLg87aeFROsiahr9AT_" version="20.8.23" type="github">
   <diagram id="XNNLvGDx6GEtNMZaRpZD" name="第 1 页">
     <mxGraphModel dx="1911" dy="1634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
         <mxCell id="N3JY60aqSUAMYLGx3agL-7" value="用户访问数据" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="120" y="-10" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="N3JY60aqSUAMYLGx3agL-8" value="n日留存" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="N3JY60aqSUAMYLGx3agL-8" value="n日留存/近n日访问" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="440" y="-10" width="205" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_2qatVsggVVuZN918_rx-3" value="重复扫描大量分区数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
