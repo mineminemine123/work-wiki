@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T17:37:51.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="a8qrmDksG_QnBiKpnUr7" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T17:40:56.797Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="TsuNQNKJqj3z8SOrOR-v" version="21.0.2" type="github">
   <diagram name="第 1 页" id="QqnSfi7Ya7M0dYYR_4Zv">
     <mxGraphModel dx="797" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,8 +7,8 @@
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="330" y="200" width="260" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="un65Aq28Jv2RrzTGQJQ4-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;血缘服务&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
-          <mxGeometry x="340" y="260" width="60" height="20" as="geometry" />
+        <mxCell id="un65Aq28Jv2RrzTGQJQ4-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;服务模型血缘&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
+          <mxGeometry x="340" y="250" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" parent="1" source="un65Aq28Jv2RrzTGQJQ4-7" target="un65Aq28Jv2RrzTGQJQ4-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,22 +29,22 @@
           <mxGeometry x="400" y="137.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-14" value="报表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
-          <mxGeometry x="670" y="180" width="90" height="50" as="geometry" />
+          <mxGeometry x="640" y="180" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-16" value="访问热度" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
-          <mxGeometry x="510" y="220" width="70" height="32" as="geometry" />
+          <mxGeometry x="510" y="216" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-17" value="" style="group;fontFamily=微软雅黑;" parent="1" connectable="0" vertex="1">
-          <mxGeometry x="400" y="230" width="99" height="110" as="geometry" />
+          <mxGeometry x="360" y="220" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-18" value="接口" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="un65Aq28Jv2RrzTGQJQ4-17" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
-          <mxGeometry x="14.5" y="-10" width="70" height="30" as="geometry" />
+          <mxGeometry x="16.11111111111111" width="61.66666666666667" height="21.818181818181817" as="geometry" />
         </mxCell>
         <mxCell id="aNr1Fvhn0te5IcQRyEdF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="un65Aq28Jv2RrzTGQJQ4-17" source="un65Aq28Jv2RrzTGQJQ4-19" target="un65Aq28Jv2RrzTGQJQ4-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-19" value="模块" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="un65Aq28Jv2RrzTGQJQ4-17" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
-          <mxGeometry x="14.5" y="52.86" width="70" height="27.14" as="geometry" />
+          <mxGeometry x="16.11111111111111" y="57.66545454545454" width="61.66666666666667" height="18.69818181818182" as="geometry" />
         </mxCell>
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=微软雅黑;" parent="1" source="un65Aq28Jv2RrzTGQJQ4-22" target="un65Aq28Jv2RrzTGQJQ4-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -52,7 +52,7 @@
         <mxCell id="un65Aq28Jv2RrzTGQJQ4-22" value="物理表" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="RoundedRectangle" vertex="1">
           <mxGeometry x="400" y="82.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBbLwjD21pBMDfrYCW_J-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="un65Aq28Jv2RrzTGQJQ4-9" edge="1">
+        <mxCell id="fBbLwjD21pBMDfrYCW_J-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="un65Aq28Jv2RrzTGQJQ4-9" edge="1" target="un65Aq28Jv2RrzTGQJQ4-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="590" y="150" as="sourcePoint" />
             <mxPoint x="670" y="200" as="targetPoint" />
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="fBbLwjD21pBMDfrYCW_J-4" value="数据清洗&amp;amp;合并" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="150" width="90" height="30" as="geometry" />
+          <mxGeometry x="630" y="150" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aNr1Fvhn0te5IcQRyEdF-4" value="存储类型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
           <mxGeometry x="510" y="80.5" width="60" height="24.5" as="geometry" />
@@ -77,7 +77,19 @@
           <mxGeometry x="510" y="113" width="60" height="24.5" as="geometry" />
         </mxCell>
         <mxCell id="aNr1Fvhn0te5IcQRyEdF-8" value="访问方式" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
-          <mxGeometry x="510" y="260" width="70" height="32" as="geometry" />
+          <mxGeometry x="510" y="267" width="70" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="aNr1Fvhn0te5IcQRyEdF-19" value="" style="group;fontFamily=微软雅黑;" connectable="0" vertex="1" parent="1">
+          <mxGeometry x="430" y="220" width="110" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="aNr1Fvhn0te5IcQRyEdF-20" value="任务" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="aNr1Fvhn0te5IcQRyEdF-19">
+          <mxGeometry x="16.11111111111111" width="61.66666666666667" height="21.818181818181817" as="geometry" />
+        </mxCell>
+        <mxCell id="aNr1Fvhn0te5IcQRyEdF-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="aNr1Fvhn0te5IcQRyEdF-19" source="aNr1Fvhn0te5IcQRyEdF-22" target="aNr1Fvhn0te5IcQRyEdF-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aNr1Fvhn0te5IcQRyEdF-22" value="模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="aNr1Fvhn0te5IcQRyEdF-19">
+          <mxGeometry x="16.11111111111111" y="57.66545454545454" width="61.66666666666667" height="18.69818181818182" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
