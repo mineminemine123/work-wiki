@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T15:25:32.073Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6QPHYoFGqm48WWPbSe_W" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-06T15:26:05.759Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="lNiUz_kVXZDxZpjA1KTT" version="21.0.2" type="github">
   <diagram name="第 1 页" id="JSUvzp0A9ffYqXPfsxZi">
     <mxGraphModel dx="797" dy="411" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,6 +192,9 @@
         </mxCell>
         <mxCell id="ZQcCrLwTL-A52zjqZKLK-74" value="服务发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" parent="1" diagramCategory="general" diagramName="text" vertex="1">
           <mxGeometry x="995" y="955" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="QDtyKi-6EnTGAVE1sMSz-2" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;指标管理系统&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=none;fontFamily=微软雅黑;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="160" y="60" width="940" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
