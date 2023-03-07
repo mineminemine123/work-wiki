@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T02:31:50.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="0OceRIIktYQPIN0J_Dsd" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-07T02:32:10.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YkSqmijBZzXuOTTvJPVU" version="21.0.2" type="github">
   <diagram name="第 1 页" id="2HcNpDpKpD43kfRhDceQ">
     <mxGraphModel dx="1249" dy="409" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,16 +100,16 @@
         <mxCell id="gpzjmdm7jTk252mn6LHU-2" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;机制规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="70" y="525" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-3" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;分层规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="217.5" y="531.25" width="122.5" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;依赖规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;依赖规范&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="360" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;公共层建设机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;公共层建设机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="520" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="gpzjmdm7jTk252mn6LHU-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型生命周期机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="gpzjmdm7jTk252mn6LHU-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模型生命周期机制&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="671.25" y="531.25" width="120" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="jfjNn0UuYC4b5yrFFOBq-1" value="" style="endArrow=none;html=1;rounded=0;fontFamily=微软雅黑;strokeWidth=1;strokeColor=#808080;" parent="1" edge="1">
