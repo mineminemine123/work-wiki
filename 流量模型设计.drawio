@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T12:38:56.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_Gki471pzVe0Ouxt6BfQ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T12:39:41.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="9IvjjQKq48LcNTh87WiB" version="21.0.2" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
     <mxGraphModel dx="1621" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="ErQYisSNtyv5BiWGh4sq-30" value="数字大屏" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;fontStyle=1" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="471.25" y="-37" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ErQYisSNtyv5BiWGh4sq-31" value="风控" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;fontStyle=1" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
+        <mxCell id="ErQYisSNtyv5BiWGh4sq-31" value="客服" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;fontStyle=1" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="210.25" y="13" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ErQYisSNtyv5BiWGh4sq-33" value="商城看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;fontStyle=1" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
