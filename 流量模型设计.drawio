@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-07T16:21:19.910Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="yEwzqg1Ohmw-ww1X1Zek" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T12:31:52.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="2hZrZcGz_mIdcJyJf0ud" version="21.0.2" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
     <mxGraphModel dx="1621" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -112,8 +112,8 @@
         <mxCell id="_2noMWRmmMPCMAu7wt3I-58" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;全域数仓建设&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="157" y="190" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;流批一体建设&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="103" height="30" as="geometry" />
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-59" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数仓实时化建设&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
+          <mxGeometry x="385" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_2noMWRmmMPCMAu7wt3I-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据质量保障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="623.4999999999999" y="190" width="103" height="30" as="geometry" />
@@ -178,10 +178,10 @@
         <mxCell id="88G6nAGj8XGcNr6tlh3T-6" value="财务看板" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;fontStyle=1" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="704.5" y="13" width="85.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mmUFh6K9YgQm04f80v---8" value="" style="group;fillColor=#dae8fc;strokeColor=none;fontFamily=微软雅黑;fontStyle=1" vertex="1" connectable="0" parent="1">
+        <mxCell id="mmUFh6K9YgQm04f80v---8" value="" style="group;fillColor=#dae8fc;strokeColor=none;fontFamily=微软雅黑;fontStyle=1" parent="1" vertex="1" connectable="0">
           <mxGeometry x="345.25" y="80" width="246" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="mmUFh6K9YgQm04f80v---9" value="服务集市" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;strokeColor=none;fillColor=#dae8fc;fontStyle=1" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="mmUFh6K9YgQm04f80v---8">
+        <mxCell id="mmUFh6K9YgQm04f80v---9" value="服务集市" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;strokeColor=none;fillColor=#dae8fc;fontStyle=1" parent="mmUFh6K9YgQm04f80v---8" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry width="246" height="56.99999999999999" as="geometry" />
         </mxCell>
       </root>
