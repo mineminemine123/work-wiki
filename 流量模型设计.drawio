@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-09T12:36:52.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="UrDJX8eB72FUz5G88wg0" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-09T12:38:56.613Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_Gki471pzVe0Ouxt6BfQ" version="21.0.2" type="github">
   <diagram name="第 1 页" id="8vjXtbW4XhxlFyZ9hgyT">
     <mxGraphModel dx="1621" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -118,10 +118,10 @@
         <mxCell id="_2noMWRmmMPCMAu7wt3I-60" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;数据质量保障&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontColor=#330000;fontStyle=1;" parent="1" vertex="1">
           <mxGeometry x="623.4999999999999" y="190" width="103" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-63" value="航海日志" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-63" value="数据巡检" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="687" y="300" width="83" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_2noMWRmmMPCMAu7wt3I-64" value="值班运维" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="_2noMWRmmMPCMAu7wt3I-64" value="值班机制" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="687" y="250" width="83" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_2noMWRmmMPCMAu7wt3I-66" value="技术沉淀" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;fillStyle=auto;strokeColor=none;strokeWidth=1;fontFamily=微软雅黑;fontColor=#330000;fillColor=default;dashed=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
