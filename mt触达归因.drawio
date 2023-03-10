@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T11:25:56.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ugfukMA_cVyof7ywQv5O" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-10T03:50:56.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="nE2QzY0EGpjDfqNmjHSC" version="21.0.4" type="github">
   <diagram name="第 1 页" id="XRB03xl3J-LovOGTKf1S">
-    <mxGraphModel dx="1249" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,37 +11,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-5" value="触达日志" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="150" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;dashed=1;fontFamily=微软雅黑;" parent="1" source="d_3fRBbeIFmbs4PP51If-6" target="d_3fRBbeIFmbs4PP51If-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="340" y="110" width="120" height="170" as="geometry" />
+          <mxGeometry x="294" y="110" width="120" height="170" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-7" value="交易数据" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#dae8fc;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="530" y="165" width="120" height="60" as="geometry" />
+          <mxGeometry x="450" y="165" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=微软雅黑;" parent="1" source="d_3fRBbeIFmbs4PP51If-11" target="d_3fRBbeIFmbs4PP51If-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-11" value="访问" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="367" y="140" width="66" height="30" as="geometry" />
+          <mxGeometry x="321" y="140" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontFamily=微软雅黑;" parent="1" source="d_3fRBbeIFmbs4PP51If-12" target="d_3fRBbeIFmbs4PP51If-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-12" value="点击" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="367" y="190" width="66" height="30" as="geometry" />
+          <mxGeometry x="321" y="190" width="66" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d_3fRBbeIFmbs4PP51If-13" value="购买" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="367" y="240" width="66" height="30" as="geometry" />
+          <mxGeometry x="321" y="240" width="66" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_3fRBbeIFmbs4PP51If-14" value="埋点数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="367" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="d_3fRBbeIFmbs4PP51If-14" value="用户行为" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="321" y="110" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d_3fRBbeIFmbs4PP51If-21" value="&lt;b&gt;触达归因&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="150" y="110" width="60" height="30" as="geometry" />
+        <mxCell id="a5e71Fv88xUCw4Rr8kDn-2" value="" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="309.19" y="115.07" width="76.88" height="306.75" as="geometry" />
+        </mxCell>
+        <mxCell id="a5e71Fv88xUCw4Rr8kDn-5" value="末次归因" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="321" y="280" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
