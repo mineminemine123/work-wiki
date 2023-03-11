@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-11T15:39:49.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="CA0I0RiOVE9P6KnEoK-y" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-11T15:48:05.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="XZE9OIWXkCNyQ2SypDwJ" version="21.0.6" type="github">
   <diagram name="第 1 页" id="9t_LCf5cB-b87G4GpCwc">
     <mxGraphModel dx="794" dy="1684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="557.49" y="-128.75" width="114" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-34" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;font-size: 11px;&quot;&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;&lt;span style=&quot;font-size: 11px;&quot;&gt;卡点&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;链路感知&lt;/li&gt;&lt;li style=&quot;font-size: 11px;&quot;&gt;稽核规则配置&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="557.49" y="-45.00000000000001" width="114" height="38.75" as="geometry" />
+          <mxGeometry x="557.49" y="-53.75000000000001" width="114" height="38.75" as="geometry" />
         </mxCell>
         <mxCell id="ABy7lw26F6PikiW-eUqZ-35" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;ul&gt;&lt;li style=&quot;border-color: var(--border-color);&quot;&gt;模型设计&amp;amp;评审&lt;/li&gt;&lt;li&gt;开发规范&lt;/li&gt;&lt;li&gt;数据形态探查&lt;/li&gt;&lt;li&gt;业务数据比对&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="557.49" y="-203.13" width="126" height="73.75" as="geometry" />
@@ -126,6 +126,9 @@
             <mxPoint x="160" y="100" as="sourcePoint" />
             <mxPoint x="210" y="50" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="uJnPzmjOS2ldplQLQffA-1" value="&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#990000&quot;&gt;8+&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;&quot;&gt;技术方案，&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(192, 0, 0); font-weight: bold;&quot;&gt;10+&lt;/span&gt;&lt;span style=&quot;&quot;&gt;通用开发模板&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(192, 0, 0); font-weight: bold;&quot;&gt;5+&lt;/span&gt;&lt;span style=&quot;&quot;&gt;操作规范指南&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(192, 0, 0); font-weight: bold;&quot;&gt;20+&lt;/span&gt;&lt;span style=&quot;&quot;&gt;udf&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=11;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="557.49" y="1.25" width="232.51" height="38.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
