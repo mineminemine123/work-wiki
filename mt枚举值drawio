@@ -1,32 +1,32 @@
-<mxfile host="app.diagrams.net" modified="2023-03-06T18:02:29.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="u2aG34yO5SfO2fcL1agJ" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T14:40:38.207Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="N1EIzqlYF9ebj3FAhTJL" version="21.0.6" type="github">
   <diagram name="第 1 页" id="UtmKSRhlCDYnhZqcCf_x">
-    <mxGraphModel dx="797" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="515" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-1" value="业务变更" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-1" value="业务变更" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="230" y="130" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-4" value="消息通知" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="240" y="140" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-6" value="Flink SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-6" value="Flink SQL" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="250" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-7" value="推送频率" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="240" y="175" width="80" height="30" as="geometry" />
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-7" value="规则更新" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="240" y="160" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-8" value="动态更新" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="240" y="210" width="80" height="30" as="geometry" />
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-8" value="频率" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="240" y="200" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NnJVB6M0-I3EOFC-gCSV-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="NnJVB6M0-I3EOFC-gCSV-1" target="NnJVB6M0-I3EOFC-gCSV-2">
+        <mxCell id="NnJVB6M0-I3EOFC-gCSV-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=微软雅黑;" parent="1" source="NnJVB6M0-I3EOFC-gCSV-1" target="NnJVB6M0-I3EOFC-gCSV-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="190" y="120" as="sourcePoint" />
             <mxPoint x="240" y="70" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="5tMShuabfQqTeRw8YOGv-1" value="消息通知" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="130" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
