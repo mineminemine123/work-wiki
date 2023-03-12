@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-12T16:28:40.786Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="O63u5sS4e89iVG0mXu2i" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-12T16:29:06.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZXHrE8ILVUHSTpe34N5j" version="21.0.6" type="github">
   <diagram name="第 1 页" id="w29HF2uwLt3AnNHaCn8E">
     <mxGraphModel dx="2155" dy="865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="-150" y="705" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uHP1eRLvYw1iQmTf_2a-56" value="任务" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
-          <mxGeometry x="90" y="705" width="220" height="32.5" as="geometry" />
+          <mxGeometry x="107" y="702.5" width="220" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="2uHP1eRLvYw1iQmTf_2a-57" value="道具" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" parent="1" diagramCategory="general" diagramName="Rectangle" vertex="1">
           <mxGeometry x="350" y="710" width="220" height="30" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="-130" y="435" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HDzuA-LgXN-2LaE_DTJx-16" value="角色游戏停留时长" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="370" y="435" width="220" height="50" as="geometry" />
+          <mxGeometry x="360" y="435" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HDzuA-LgXN-2LaE_DTJx-18" value="业务应用层" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;strokeColor=#000000;labelBackgroundColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="-309" y="320" width="139" height="70" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry x="350" y="793" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HDzuA-LgXN-2LaE_DTJx-27" value="活动" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
-          <mxGeometry x="90" y="746.75" width="220" height="32.5" as="geometry" />
+          <mxGeometry x="107" y="746.75" width="220" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="HDzuA-LgXN-2LaE_DTJx-30" value="角色信息轻度汇总" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontSize=18;fontStyle=0" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
           <mxGeometry x="110" y="435" width="223" height="50" as="geometry" />
