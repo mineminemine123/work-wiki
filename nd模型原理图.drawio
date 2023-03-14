@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-14T17:17:08.844Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="OE5jOOFdRkPV1F2dcL10" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-14T17:17:20.812Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="ONAb2hXRhXGxn3E3BRrh" version="21.0.6" type="github">
   <diagram id="XNNLvGDx6GEtNMZaRpZD" name="第 1 页">
     <mxGraphModel dx="1717" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -171,7 +171,7 @@
         <mxCell id="WKhEIxKyLoRgTHma48mW-4" value="n日留存人数" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="371" y="42.5" width="100" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="WKhEIxKyLoRgTHma48mW-6" value="访问日期求差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="WKhEIxKyLoRgTHma48mW-6" value="日期求差" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="230" y="40" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
