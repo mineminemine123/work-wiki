@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:33:13.921Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="W_PlO7SAY73c1WLHwNed" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T11:53:33.850Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tk4IWG98S6dt_1mgWOo-" version="22.1.11" type="github">
   <diagram name="第 1 页" id="_Ai7vvlEYbXwGka6gXX4">
-    <mxGraphModel dx="1624" dy="245" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gj5sXCmEHE9GCF9gbkwT-1" target="gj5sXCmEHE9GCF9gbkwT-7">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gj5sXCmEHE9GCF9gbkwT-1" target="gj5sXCmEHE9GCF9gbkwT-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-1" value="实时订单购物车不拆sku表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-1" value="实时订单购物车不拆sku表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-180" y="340" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu默认值&lt;/li&gt;&lt;li&gt;商品属性值&lt;/li&gt;&lt;li&gt;渠道默认值&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu默认值&lt;/li&gt;&lt;li&gt;商品属性值&lt;/li&gt;&lt;li&gt;渠道默认值&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="490" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-3" value="组合装分摊表&lt;br&gt;&lt;ul&gt;&lt;li&gt;精确度提升&lt;/li&gt;&lt;li&gt;准实时调度&lt;/li&gt;&lt;li&gt;软删除&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-3" value="组合装分摊表&lt;br&gt;&lt;ul&gt;&lt;li&gt;精确度提升&lt;/li&gt;&lt;li&gt;准实时调度&lt;/li&gt;&lt;li&gt;软删除&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="230" width="140" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-5" value="口径处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;tob渠道逻辑调整&lt;/li&gt;&lt;li&gt;统一冗余商品信息&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-5" value="口径处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;tob渠道逻辑调整&lt;/li&gt;&lt;li&gt;统一冗余商品信息&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="490" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-6" value="维护&lt;br&gt;&lt;ul&gt;&lt;li&gt;apolloy配置版本&lt;/li&gt;&lt;li&gt;有数报表配置监控&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-6" value="维护&lt;br&gt;&lt;ul&gt;&lt;li&gt;apolloy配置版本&lt;/li&gt;&lt;li&gt;有数报表配置监控&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-50" y="250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-7" value="实时订单购物车拆sku表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-7" value="实时订单购物车拆sku表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="70" y="340" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
