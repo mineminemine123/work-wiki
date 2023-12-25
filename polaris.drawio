@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:10:49.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="dxi1Q9QYL07WjkisDODp" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:12:25.908Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="9pCjydLZQ_uP3hGBZ3Tt" version="22.1.11" type="github">
   <diagram name="第 1 页" id="VuKKYdippvmsp-2qlO2M">
     <mxGraphModel dx="1624" dy="503" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -196,7 +196,7 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-90" value="商品操作记录表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="600" y="525.5" width="131" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=微软雅黑;fontSize=18;dashed=1;fillColor=none;strokeWidth=1;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-92" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=微软雅黑;fontSize=18;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="10" y="520" width="420" height="400" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-91" value="..." style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
@@ -208,17 +208,11 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="46.25" y="440" width="720" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=微软雅黑;fontSize=18;dashed=1;fillColor=none;strokeWidth=1;strokeColor=#CC0000;" vertex="1" parent="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=微软雅黑;fontSize=18;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#CC0000;" vertex="1" parent="1">
           <mxGeometry x="430" y="520" width="370" height="400" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-94" value="商品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontFamily=微软雅黑;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="617.5" y="830" width="25" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-97" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-98" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-99" value="DWS底表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="60" y="460" width="60" height="30" as="geometry" />
