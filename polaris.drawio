@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T08:56:34.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iLvHnjt0NI5y9o8VIjg0" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T08:57:57.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="fImYyMRrgHCpZjhcNw9j" version="22.1.11" type="github">
   <diagram name="第 1 页" id="VuKKYdippvmsp-2qlO2M">
     <mxGraphModel dx="2073" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-85" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="8.75" y="350" width="791.25" height="160" as="geometry" />
+        </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-84" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="8.75" y="255" width="781.25" height="85" as="geometry" />
+          <mxGeometry x="8.75" y="250" width="791.25" height="90" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="18.75" y="520" width="781.25" height="80" as="geometry" />
@@ -201,6 +204,9 @@
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-83" value="订单购物车基础明细表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="30.5" y="545" width="159.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-86" value="订单购物车sku明细宽表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="390" y="460" width="145" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
