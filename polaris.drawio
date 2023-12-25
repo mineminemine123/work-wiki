@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T06:55:10.383Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_EGmmCGgKsh1PFE5ZKC9" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T07:01:07.151Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QVgtITVrM7wCjQ5vTxQX" version="22.1.11" type="github">
   <diagram name="第 1 页" id="VuKKYdippvmsp-2qlO2M">
-    <mxGraphModel dx="846" dy="857" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="846" dy="848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bTk-zeeERNAB_hrSNlrv-1" value="严选商城（主站）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="25" y="770" width="125" height="40" as="geometry" />
+          <mxGeometry x="100" y="770" width="125" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTk-zeeERNAB_hrSNlrv-2" value="分销系统" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="165" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="240" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTk-zeeERNAB_hrSNlrv-3" value="订单中心(oms)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="460" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="535" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTk-zeeERNAB_hrSNlrv-4" value="大客户（tob/ubuy）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="310" y="770" width="120" height="40" as="geometry" />
+          <mxGeometry x="385" y="770" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bTk-zeeERNAB_hrSNlrv-6" value="线下数据（精卫上传）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="610" y="770" width="125" height="40" as="geometry" />
+          <mxGeometry x="685" y="770" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
