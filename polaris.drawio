@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-25T09:00:29.864Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wTBPNohjOJL0rDc99o2Q" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-25T09:00:38.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="UJE97Y6WpXA8li1ZJN7m" version="22.1.11" type="github">
   <diagram name="第 1 页" id="VuKKYdippvmsp-2qlO2M">
     <mxGraphModel dx="2076" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,9 +162,6 @@
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-50" value="商品粒度销售汇总数据" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="390" y="400" width="161" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=微软雅黑;" edge="1" parent="1" source="KCwfQXM3cd3Utm9D9eWa-51" target="KCwfQXM3cd3Utm9D9eWa-53">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-51" value="BU粒度销售汇总数据" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="200.5" y="360" width="141" height="30" as="geometry" />
