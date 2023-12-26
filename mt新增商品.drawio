@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T10:59:26.267Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="QTh9V2APZI3oCqKYI7OP" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T10:59:43.519Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="mcp5o81tGMncaJcRNkPN" version="22.1.11" type="github">
   <diagram name="第 1 页" id="sOmlJIcZuwc7b4XqdzQj">
     <mxGraphModel dx="797" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="FjT4K9WoOIpY4Io7dNzL-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="260" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="FjT4K9WoOIpY4Io7dNzL-1" value="线下配置表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="FjT4K9WoOIpY4Io7dNzL-1" value="线下人工配置表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FjT4K9WoOIpY4Io7dNzL-2" value="实时商品维表&lt;br&gt;(hbase)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
