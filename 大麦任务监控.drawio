@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T06:31:34.122Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="kN8q83ROnwZx5XzMb2-1" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T06:42:12.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="cyHVfEaqexfU_nEHJofU" version="22.1.11" type="github">
   <diagram name="第 1 页" id="bkmUAf5GaKLeKeRniAin">
     <mxGraphModel dx="797" dy="1602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -38,7 +38,7 @@
           <mxGeometry x="860.0029850746268" y="458.15" width="57.402985074626876" height="23.142857142857142" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-12" value="&lt;h4&gt;血缘报表&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="858.7099999999999" y="10" width="160" height="90" as="geometry" />
+          <mxGeometry x="748.7099999999999" y="-30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1110" y="450" width="290" height="200" as="geometry" />
@@ -62,67 +62,76 @@
           <mxGeometry x="1270" y="568.14" width="114.81" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-25" value="&lt;h4&gt;任务产出巡检&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1041.3" y="10" width="160" height="90" as="geometry" />
+          <mxGeometry x="931.3" y="-30" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-26" value="&lt;h4&gt;指标监控&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="858.71" y="-50" width="581.29" height="50" as="geometry" />
+          <mxGeometry x="748.71" y="-90" width="581.29" height="50" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-27" value="&lt;h4&gt;元数据&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
           <mxGeometry x="750" y="140" width="70" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-28" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="974.81" y="140" width="105.19" height="150" as="geometry" />
+          <mxGeometry x="1041.3" y="140" width="105.19" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-29" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="830" y="140" width="130" height="150" as="geometry" />
+          <mxGeometry x="833" y="140" width="200" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="q0xM9G2KaVh3ov2FUy2p-30" value="&lt;h4&gt;表产出信息&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="984.81" y="210" width="85.19" height="30" as="geometry" />
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-30" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;页面/模块&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontColor=#CC0000;dashed=1;strokeColor=#CC0000;" vertex="1" parent="1">
+          <mxGeometry x="1051.3" y="210" width="85.19" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0xM9G2KaVh3ov2FUy2p-31" value="&lt;h4&gt;表依赖关系&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="984.81" y="170" width="85.19" height="30" as="geometry" />
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-31" value="&lt;h4&gt;报表依赖关系&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="1051.3" y="170" width="85.19" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-32" value="&lt;h4&gt;任务依赖关系&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="841.62" y="170" width="106.76" height="30" as="geometry" />
+          <mxGeometry x="841.62" y="170" width="88.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-33" value="&lt;h4&gt;任务流执行信息&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="841.62" y="210" width="106.76" height="30" as="geometry" />
+          <mxGeometry x="841.62" y="210" width="88.38" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-34" value="&lt;h4&gt;任务节点执行信息&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="841.62" y="250" width="104.81" height="30" as="geometry" />
+          <mxGeometry x="841.62" y="250" width="98.38" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0xM9G2KaVh3ov2FUy2p-36" value="&lt;h4&gt;表存储类型&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="984.81" y="250" width="85.19" height="30" as="geometry" />
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-36" value="&lt;h4&gt;负责人&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="1051.3" y="250" width="85.19" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0xM9G2KaVh3ov2FUy2p-37" value="任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="864.02" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-37" value="任务&amp;amp;表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="894.81" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q0xM9G2KaVh3ov2FUy2p-38" value="表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="997.4100000000001" y="140" width="60" height="30" as="geometry" />
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-38" value="有数报表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="1063.9" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-39" value="&lt;h4&gt;&lt;br&gt;&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="140" width="180" height="150" as="geometry" />
+          <mxGeometry x="1156.49" y="140" width="173.51" height="150" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-40" value="&lt;h4&gt;产品编码&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="1166.49" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-41" value="&lt;h4&gt;服务编码&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="170" width="70" height="30" as="geometry" />
+          <mxGeometry x="1166.49" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-42" value="&lt;h4 style=&quot;border-color: var(--border-color);&quot;&gt;页面/模块&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="250" width="70" height="30" as="geometry" />
+          <mxGeometry x="1166.49" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-43" value="服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1152.6000000000001" y="140" width="60" height="30" as="geometry" />
+          <mxGeometry x="1210.0000000000002" y="140" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-44" value="&lt;h4&gt;服务状态&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="170" width="70" height="30" as="geometry" />
+          <mxGeometry x="1246" y="170" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-45" value="&lt;h4&gt;服务类型&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="210" width="70" height="30" as="geometry" />
+          <mxGeometry x="1245" y="210" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q0xM9G2KaVh3ov2FUy2p-46" value="&lt;h4&gt;负责人&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="250" width="70" height="30" as="geometry" />
+          <mxGeometry x="1246" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-47" value="&lt;h4&gt;表依赖关系&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="940" y="170" width="88.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-48" value="&lt;h4&gt;表产出信息&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="940" y="210" width="88.38" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="q0xM9G2KaVh3ov2FUy2p-49" value="&lt;h4&gt;负责人&lt;/h4&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="944.62" y="250" width="75.38" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
