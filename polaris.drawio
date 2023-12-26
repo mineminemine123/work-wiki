@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T07:24:02.150Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Is1OzBcszWDNFbiKrlDi" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-26T14:05:16.578Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Mc65ENocK7OICTTfT259" version="22.1.11" type="github">
   <diagram name="第 1 页" id="VuKKYdippvmsp-2qlO2M">
-    <mxGraphModel dx="1864" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -82,10 +82,10 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-19" value="订单购物车表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="65" y="720" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-20" value="商品主表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-20" value="item主表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="455" y="680" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-21" value="商品扩展表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-21" value="item扩展表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="455" y="720" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-22" value="sku主表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
@@ -205,7 +205,7 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-3" value="&lt;b&gt;交易&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontFamily=微软雅黑;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="210" y="830" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-96" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=微软雅黑;strokeColor=#CC0000;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="20" y="440" width="770" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-93" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontFamily=微软雅黑;fontSize=18;dashed=1;fillColor=none;strokeWidth=2;strokeColor=#CC0000;" parent="1" vertex="1">
@@ -214,8 +214,8 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-94" value="&lt;b&gt;商品&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=0;rotation=90;fontFamily=微软雅黑;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="617.5" y="830" width="25" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-99" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;DWS底表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="50" y="455" width="60" height="30" as="geometry" />
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-99" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;DWS明细表&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="40" y="455" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-60" value="订单购物车不拆sku明细宽表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="142.5" y="460" width="87.5" height="30" as="geometry" />
@@ -223,7 +223,7 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-77" value="订单购物车拆sku明细宽表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="250" y="460" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KCwfQXM3cd3Utm9D9eWa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontFamily=微软雅黑;strokeColor=#CC0000;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="KCwfQXM3cd3Utm9D9eWa-102" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontFamily=微软雅黑;strokeColor=default;strokeWidth=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="447" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-86" value="订单购物车sku明细宽表" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
@@ -238,7 +238,7 @@
         <mxCell id="KCwfQXM3cd3Utm9D9eWa-105" value="&lt;font color=&quot;#cc0000&quot;&gt;&lt;b&gt;合并&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="346.5" y="456" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ma1qd70-mlFIVr5zDKzY-1" value="新订单履约表改造" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+        <mxCell id="ma1qd70-mlFIVr5zDKzY-1" value="新订单履约表改造" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="570" y="457" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
