@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T09:13:22.269Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="2bTVkcUv2K8B13xSQGjH" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T09:16:13.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="AbtJ0I4O-2d9-l4MwjSj" version="22.1.12" type="github">
   <diagram name="第 1 页" id="Fak6mEKhSWpHNSM7w2Kg">
-    <mxGraphModel>
+    <mxGraphModel dx="748" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="_km5dwz2JkE5e6pBlzM0-1" target="_km5dwz2JkE5e6pBlzM0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-1" value="数据湖" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="260" y="400" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="_km5dwz2JkE5e6pBlzM0-2" target="_km5dwz2JkE5e6pBlzM0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-2" value="id排序字段（层级维度）" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-3" value="维表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="260" y="460" width="250" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-5" value="准实时调度" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="390" y="430" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_km5dwz2JkE5e6pBlzM0-7" value="加速后端属性名查询" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="390" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
