@@ -1,9 +1,96 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T06:26:16.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="TU_B-j28BhdRLfwDUgoE" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T06:26:26.370Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="p_4Sf68eJ1M2AY1-ezO0" version="22.1.12" type="github">
   <diagram name="第 1 页" id="KkKqYq8ntRkavTfjJMW6">
-    <mxGraphModel>
+    <mxGraphModel dx="747" dy="404" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-1" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="170" width="1130" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-3" target="EpLCG8jxDJ9j_rdvbxRa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="705" y="230" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-5" target="EpLCG8jxDJ9j_rdvbxRa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="300" y="230" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-6" value="血缘数据" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="275" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-7" value="任务运行状态" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="860" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-8" value="Bachelor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="350" y="295" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-9" value="猛犸" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="727" y="295" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-10" value="任务恢复周期" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="860" y="315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-13" target="EpLCG8jxDJ9j_rdvbxRa-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-13" target="EpLCG8jxDJ9j_rdvbxRa-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-13" value="产品编码" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-14" value="定位任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-15" value="接口/数据湖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="610" y="275" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-16" value="定位任务状态&amp;amp;恢复周期" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="790" y="380" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-17" value="接口/数据湖" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="230" y="190" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-18" value="消息通知" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="790" y="75" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-19" value="猛犸调度任务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-21" target="EpLCG8jxDJ9j_rdvbxRa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="300" y="30" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-22" value="waiter/dqs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="320" y="90" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-23" value="服务状态" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="EpLCG8jxDJ9j_rdvbxRa-25" target="EpLCG8jxDJ9j_rdvbxRa-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="Rectangle" vertex="1" parent="1">
+          <mxGeometry x="995" y="30" width="290" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-26" value="页面" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1150" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-27" value="模块" style="rounded=0;whiteSpace=wrap;html=1;" diagramCategory="general" diagramName="RoundedRectangle" vertex="1" parent="1">
+          <mxGeometry x="1150" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-28" value="精卫/apolloy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="1020" y="97" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="EpLCG8jxDJ9j_rdvbxRa-29" value="报表内嵌" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+          <mxGeometry x="1107" y="180" width="66" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
