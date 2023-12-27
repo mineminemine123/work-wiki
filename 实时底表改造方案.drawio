@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T08:05:59.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="P2CX3uPbxwiItFejHi6v" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T08:25:03.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nG15l7B8vxwwS0rO-Wb0" version="22.1.12" type="github">
   <diagram name="第 1 页" id="_Ai7vvlEYbXwGka6gXX4">
     <mxGraphModel dx="1765" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gj5sXCmEHE9GCF9gbkwT-1" value="实时订单购物车不拆dwd明细表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="-240" y="340" width="170" height="60" as="geometry" />
+          <mxGeometry x="-270" y="340" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu/group&lt;/li&gt;&lt;li&gt;商品属性值(mt)&lt;/li&gt;&lt;li&gt;渠道&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="70" y="463" width="140" height="30" as="geometry" />
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu/group&lt;/li&gt;&lt;li&gt;商品属性值(mt标识等)&lt;/li&gt;&lt;li&gt;渠道&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="70" y="463" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gj5sXCmEHE9GCF9gbkwT-3" value="优化&lt;br&gt;&lt;ul&gt;&lt;li&gt;精确度提升&lt;/li&gt;&lt;li&gt;准实时调度&lt;/li&gt;&lt;li&gt;软删除&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="70" y="245" width="140" height="50" as="geometry" />
+          <mxGeometry x="60" y="245" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gj5sXCmEHE9GCF9gbkwT-7" value="实时订单购物车dws明细表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="170" y="340" width="150" height="60" as="geometry" />
@@ -39,6 +39,9 @@
         </mxCell>
         <mxCell id="6uanAG1I6Ww46BZUfxd2-10" value="报表监控" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="215" y="410" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6uanAG1I6Ww46BZUfxd2-11" value="升级&lt;br&gt;&lt;ul&gt;&lt;li&gt;支持bitmap精确去重&lt;/li&gt;&lt;li&gt;动态化配置版本号&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" vertex="1" parent="1">
+          <mxGeometry x="350" y="345" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
