@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T07:58:49.080Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m9cz2NxTe_MHbxQBMUqF" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T08:03:52.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m3cU-eZkF25Am0_CrHym" version="22.1.12" type="github">
   <diagram name="第 1 页" id="_Ai7vvlEYbXwGka6gXX4">
     <mxGraphModel dx="1765" dy="485" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,20 +13,14 @@
         <mxCell id="gj5sXCmEHE9GCF9gbkwT-1" value="订单购物车不拆sku实时明细表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="-240" y="340" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu/group默认值&lt;/li&gt;&lt;li&gt;商品属性值(mt)&lt;/li&gt;&lt;li&gt;渠道默认值&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-2" value="默认值处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;bu/group&lt;/li&gt;&lt;li&gt;商品属性值(mt)&lt;/li&gt;&lt;li&gt;渠道&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
           <mxGeometry x="70" y="463" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-3" value="&lt;br&gt;&lt;ul&gt;&lt;li&gt;精确度提升&lt;/li&gt;&lt;li&gt;准实时调度&lt;/li&gt;&lt;li&gt;软删除&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="40" y="240" width="140" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-5" value="口径处理&lt;br&gt;&lt;ul&gt;&lt;li&gt;tob渠道逻辑调整(accountid+corpid)&lt;div data-okr=&quot;%7B%22okrDelta%22%3A%5B%7B%22lineType%22%3A%22text%22%2C%22lineOptions%22%3A%7B%7D%2C%22lineContent%22%3A%5B%7B%22opType%22%3A%22text%22%2C%22options%22%3A%7B%22text%22%3A%22accountid_corpid%22%7D%7D%5D%7D%5D%2C%22businessKey%22%3A%22lark-doc%22%7D&quot; class=&quot;okr-block-clipboard lark-doc&quot;&gt;&lt;/div&gt;&lt;/li&gt;&lt;li&gt;统一冗余商品信息&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="100" y="110" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="gj5sXCmEHE9GCF9gbkwT-6" value="维护&lt;br&gt;&lt;ul&gt;&lt;li&gt;apolloy配置版本&lt;/li&gt;&lt;li&gt;有数报表配置监控&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="110" width="150" height="30" as="geometry" />
+        <mxCell id="gj5sXCmEHE9GCF9gbkwT-3" value="优化&lt;br&gt;&lt;ul&gt;&lt;li&gt;精确度提升&lt;/li&gt;&lt;li&gt;准实时调度&lt;/li&gt;&lt;li&gt;软删除&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;" parent="1" vertex="1">
+          <mxGeometry x="70" y="245" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="gj5sXCmEHE9GCF9gbkwT-7" value="实时订单购物车sku表" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;" parent="1" vertex="1">
-          <mxGeometry x="70" y="340" width="150" height="60" as="geometry" />
+          <mxGeometry x="170" y="340" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6uanAG1I6Ww46BZUfxd2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=微软雅黑;" edge="1" parent="1" source="6uanAG1I6Ww46BZUfxd2-1" target="gj5sXCmEHE9GCF9gbkwT-7">
           <mxGeometry relative="1" as="geometry" />
