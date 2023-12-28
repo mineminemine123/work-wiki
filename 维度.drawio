@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-28T04:46:05.141Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vogJGrzCp-fXT14q3Ies" version="22.1.15" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-28T04:51:20.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O3PUb0ef8JOFA-pnrOLf" version="22.1.15" type="github">
   <diagram name="第 1 页" id="Fak6mEKhSWpHNSM7w2Kg">
     <mxGraphModel dx="938" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -153,7 +153,7 @@
         <mxCell id="skTCvPTVxZWs7eXpgBM4-39" value="&lt;b&gt;问题（运维成本大）&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="700" y="520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="skTCvPTVxZWs7eXpgBM4-40" value="&lt;b&gt;成果&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
+        <mxCell id="skTCvPTVxZWs7eXpgBM4-40" value="&lt;b&gt;目标&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontFamily=微软雅黑;" diagramCategory="general" diagramName="text" vertex="1" parent="1">
           <mxGeometry x="705" y="597" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
