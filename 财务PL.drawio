@@ -74,7 +74,7 @@
           <mxGeometry x="700" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="330" y="432.5" width="470" height="117.5" as="geometry" />
+          <mxGeometry x="330" y="432.5" width="470" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-26" value="履约以下费用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="525.25" y="392.5" width="74.75" height="30" as="geometry" />
