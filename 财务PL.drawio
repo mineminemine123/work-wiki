@@ -35,7 +35,7 @@
           <mxGeometry x="60" y="360" width="770" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="390" width="180" height="367.5" as="geometry" />
+          <mxGeometry x="90" y="390" width="210" height="367.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-10" value="收入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="148.75" y="360" width="60" height="30" as="geometry" />
@@ -129,6 +129,9 @@
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-46" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="696" width="70" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定业务时间分摊&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="76.25" y="618.75" width="223.75" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
