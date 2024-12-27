@@ -37,8 +37,8 @@
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="90" y="390" width="210" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="qGcrRXvkYBeC9DR_U5yj-10" value="收入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="148.75" y="360" width="60" height="30" as="geometry" />
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-10" value="收入&amp;amp;商品成本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="360" width="111.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-14" value="收入费用+规则分摊" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="-70" y="582.5" width="120" height="30" as="geometry" />
@@ -68,7 +68,7 @@
           <mxGeometry x="540" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-23" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="678.75" y="590" width="121.25" height="170" as="geometry" />
+          <mxGeometry x="660" y="590" width="140" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-24" value="履约费用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="700" y="565" width="60" height="30" as="geometry" />
@@ -130,11 +130,14 @@
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-46" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="690" y="696" width="70" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定同渠道指定不同业务周期分摊&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="76.25" y="618.75" width="223.75" height="30" as="geometry" />
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定同渠道指定不同业务周期分摊&lt;/li&gt;&lt;li&gt;京东自营渠道修正&lt;/li&gt;&lt;li&gt;&lt;div data-docx-has-block-data=&quot;false&quot; data-lark-html-role=&quot;root&quot; data-page-id=&quot;ChRIdA0hZobBU5xymgpcbbGHnzd&quot;&gt;&lt;div class=&quot;old-record-id-AXoadqCw2o8f7Kxxe1QcJT7knie&quot;&gt;财供应商返利逻辑修正&lt;/div&gt;&lt;/div&gt;&lt;span class=&quot;lark-record-clipboard&quot; data-lark-record-format=&quot;docx/text&quot; data-lark-record-data=&quot;{&amp;quot;rootId&amp;quot;:&amp;quot;ChRIdA0hZobBU5xymgpcbbGHnzd&amp;quot;,&amp;quot;text&amp;quot;:{&amp;quot;initialAttributedTexts&amp;quot;:{&amp;quot;text&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;财务成本供应商返利逻辑修正需求&amp;quot;},&amp;quot;attribs&amp;quot;:{&amp;quot;0&amp;quot;:&amp;quot;*0+f&amp;quot;}},&amp;quot;apool&amp;quot;:{&amp;quot;numToAttrib&amp;quot;:{&amp;quot;0&amp;quot;:[&amp;quot;author&amp;quot;,&amp;quot;6789052697665437964&amp;quot;]},&amp;quot;nextNum&amp;quot;:1}},&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;referenceRecordMap&amp;quot;:{},&amp;quot;extra&amp;quot;:{&amp;quot;channel&amp;quot;:&amp;quot;saas&amp;quot;,&amp;quot;pasteRandomId&amp;quot;:&amp;quot;4e86c586-93dd-4e05-91a0-dab6205dae3f&amp;quot;,&amp;quot;mention_page_title&amp;quot;:{},&amp;quot;external_mention_url&amp;quot;:{}},&amp;quot;isKeepQuoteContainer&amp;quot;:false,&amp;quot;isFromCode&amp;quot;:false,&amp;quot;selection&amp;quot;:[{&amp;quot;id&amp;quot;:104,&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;selection&amp;quot;:{&amp;quot;start&amp;quot;:10,&amp;quot;end&amp;quot;:25},&amp;quot;recordId&amp;quot;:&amp;quot;AXoadqCw2o8f7Kxxe1QcJT7knie&amp;quot;}],&amp;quot;payloadMap&amp;quot;:{},&amp;quot;isCut&amp;quot;:false}&quot;&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
+          <mxGeometry x="76.25" y="678.75" width="223.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-55" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="735.75" y="440" width="54.25" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-57" value="商品成本" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="600" width="90" height="37.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
