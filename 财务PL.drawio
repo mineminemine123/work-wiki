@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="150" width="760" height="120" as="geometry" />
+          <mxGeometry x="60" y="160" width="760" height="110" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-1" value="vipapp" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="70" y="182.5" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="70" y="192.5" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-2" value="大麦盈利分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="181.25" width="120" height="50" as="geometry" />
+          <mxGeometry x="170" y="191.25" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-3" value="大管报预实分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="182.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="390" y="192.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-4" value="成本分层看板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="530" y="182.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="530" y="192.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-6" value="应用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="192.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="-10" y="202.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-7" value="刑天PL月度看板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="678.75" y="182.5" width="120" height="50" as="geometry" />
+          <mxGeometry x="678.75" y="192.5" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-8" value="新增+迭代" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="280" width="760" height="70" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="-40" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="770" height="440" as="geometry" />
+          <mxGeometry x="60" y="360" width="760" height="440" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="390" width="210" height="367.5" as="geometry" />
+          <mxGeometry x="90" y="390" width="210" height="380" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-10" value="收入" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="148.75" y="360" width="60" height="30" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="-70" y="582.5" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-15" value="费控明细分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="181.25" width="80" height="48.75" as="geometry" />
+          <mxGeometry x="300" y="191.25" width="80" height="48.75" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qGcrRXvkYBeC9DR_U5yj-16" target="qGcrRXvkYBeC9DR_U5yj-17">
           <mxGeometry relative="1" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="700" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="432.5" width="430" height="117.5" as="geometry" />
+          <mxGeometry x="360" y="432.5" width="440" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-26" value="履约以下费用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="392.5" width="74.75" height="30" as="geometry" />
@@ -124,13 +124,13 @@
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-44" value="业务保险费" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="90" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGcrRXvkYBeC9DR_U5yj-45" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-45" value="坏账准备" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="495" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-46" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="696" width="70" height="47.5" as="geometry" />
         </mxCell>
-        <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定业务时间分摊&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定同渠道指定不同业务周期分摊&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="76.25" y="618.75" width="223.75" height="30" as="geometry" />
         </mxCell>
       </root>
