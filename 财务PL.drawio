@@ -32,7 +32,7 @@
           <mxGeometry x="-40" y="300" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-12" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="60" y="360" width="760" height="440" as="geometry" />
+          <mxGeometry x="60" y="360" width="760" height="430" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="90" y="390" width="210" height="380" as="geometry" />
@@ -62,7 +62,7 @@
           <mxGeometry x="127.5" y="542.5" width="105" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="340" y="390" width="470" height="380" as="geometry" />
+          <mxGeometry x="320" y="390" width="490" height="380" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-22" value="费用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="540" y="360" width="60" height="30" as="geometry" />
@@ -74,64 +74,67 @@
           <mxGeometry x="700" y="565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="360" y="432.5" width="440" height="117.5" as="geometry" />
+          <mxGeometry x="330" y="432.5" width="470" height="117.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-26" value="履约以下费用" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="520" y="392.5" width="74.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-29" value="营销" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="370" y="440" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="340" y="440" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-30" value="收入分成" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="470" y="495" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="440" y="495" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-31" value="设计拍摄费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="370" y="495" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="340" y="495" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-32" value="产技项目人工" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="470" y="440" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="440" y="440" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-33" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="360" y="590" width="300" height="170" as="geometry" />
+          <mxGeometry x="340" y="590" width="300" height="170" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-34" value="产品成本" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="455.25" y="560" width="74.75" height="30" as="geometry" />
+          <mxGeometry x="435.25" y="560" width="74.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-35" value="采购成本" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="370" y="610" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="350" y="610" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-36" value="头程运费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="470" y="610" width="70" height="47.5" as="geometry" />
+          <mxGeometry x="450" y="610" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-37" value="TC运费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="555" y="610" width="70" height="47.5" as="geometry" />
+          <mxGeometry x="535" y="610" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-38" value="项目外包费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="570" y="440" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="540" y="440" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-39" value="逆向履约费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="690" y="595" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-40" value="BI人工" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="570" y="495" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="540" y="495" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-42" value="2b运输费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="690" y="645.5" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-43" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="369" y="670" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="350" y="670" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-44" value="业务保险费" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="670" y="440" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="640" y="440" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-45" value="坏账准备" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
-          <mxGeometry x="670" y="495" width="90" height="47.5" as="geometry" />
+          <mxGeometry x="640" y="495" width="90" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-46" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="690" y="696" width="70" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="qGcrRXvkYBeC9DR_U5yj-52" value="&lt;ul&gt;&lt;li&gt;长账龄账单指定同渠道指定不同业务周期分摊&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
           <mxGeometry x="76.25" y="618.75" width="223.75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qGcrRXvkYBeC9DR_U5yj-55" value="。。。" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=微软雅黑;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3D%25E5%25BE%25AE%25E8%25BD%25AF%25E9%259B%2585%25E9%25BB%2591;" vertex="1" parent="1">
+          <mxGeometry x="735.75" y="440" width="54.25" height="47.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
